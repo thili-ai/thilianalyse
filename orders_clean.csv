@@ -1,0 +1,1863 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,amount,channel,city
+O00001,2025-01-01,C0170,Assam CTC,Everyday,4,220,880,Store,Kochi
+O00002,2025-01-01,C0047,Assam CTC,Everyday,1,220,220,Marketplace,Palakkad
+O00003,2025-01-01,C0520,Masala Chai Blend,Blend,1,250,250,Online,Chennai
+O00004,2025-01-02,C0015,Masala Chai Blend,Blend,1,250,250,Online,Chennai
+O00005,2025-01-02,C0449,Assam CTC,Everyday,4,220,880,Store,Kochi
+O00006,2025-01-02,C0062,Darjeeling First Flush,Single estate,1,650,650,Store,Thrissur
+O00007,2025-01-02,C0073,Tulsi Ginger,Wellness,2,280,560,Online,Bengaluru
+O00008,2025-01-02,C0031,Green Tea Classic,Wellness,2,300,600,Online,Kochi
+O00009,2025-01-02,C0369,Gift Hamper,Gifting,1,1800,1800,Store,Chennai
+O00010,2025-01-02,C0047,Assam CTC,Everyday,1,220,220,Marketplace,Palakkad
+O00011,2025-01-02,C0239,Tulsi Ginger,Wellness,2,280,560,Online,Kochi
+O00012,2025-01-02,C0148,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00013,2025-01-02,C0525,Masala Chai Blend,Blend,3,250,750,Store,Thrissur
+O00014,2025-01-03,C0298,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O00015,2025-01-03,W008,Darjeeling First Flush,Single estate,12,650,7800,Wholesale,Bengaluru
+O00016,2025-01-03,C0196,Assam CTC,Everyday,3,220,660,Online,Kozhikode
+O00017,2025-01-03,C0534,Masala Chai Blend,Blend,1,250,250,Store,Bengaluru
+O00018,2025-01-03,C0283,Tulsi Ginger,Wellness,2,280,560,Marketplace,Chennai
+O00019,2025-01-03,W001,Gift Hamper,Gifting,6,1800,10800,Wholesale,Kochi
+O00020,2025-01-03,C0215,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00021,2025-01-03,C0108,Green Tea Classic,Wellness,2,300,600,Online,Thrissur
+O00022,2025-01-03,C0474,Green Tea Classic,Wellness,3,300,900,Store,Chennai
+O00023,2025-01-03,C0147,Assam CTC,Everyday,2,220,440,Store,Kozhikode
+O00024,2025-01-03,C0105,Tulsi Ginger,Wellness,2,280,560,Marketplace,Thrissur
+O00025,2025-01-04,C0170,Green Tea Classic,Wellness,1,300,300,Online,Kochi
+O00026,2025-01-04,C0276,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O00027,2025-01-04,C0332,Masala Chai Blend,Blend,3,250,750,Marketplace,Kozhikode
+O00028,2025-01-04,C0108,Assam CTC,Everyday,4,220,880,Store,Thrissur
+O00029,2025-01-04,C0493,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O00030,2025-01-04,C0400,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O00031,2025-01-05,C0047,Assam CTC,Everyday,1,220,220,Marketplace,Palakkad
+O00032,2025-01-05,C0458,Masala Chai Blend,Blend,1,250,250,Store,Kozhikode
+O00033,2025-01-05,C0225,Green Tea Classic,Wellness,3,300,900,Store,Bengaluru
+O00034,2025-01-05,C0387,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O00035,2025-01-05,W002,Assam CTC,Everyday,30,220,6600,Wholesale,Bengaluru
+O00036,2025-01-05,C0535,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O00037,2025-01-05,C0099,Gift Hamper,Gifting,1,1800,1800,Store,Thrissur
+O00038,2025-01-06,W023,Masala Chai Blend,Blend,30,250,7500,Wholesale,Kochi
+O00039,2025-01-06,C0062,Assam CTC,Everyday,3,220,660,Store,Thrissur
+O00040,2025-01-06,C0096,Assam CTC,Everyday,1,220,220,Online,Palakkad
+O00041,2025-01-06,W007,Gift Hamper,Gifting,6,1800,10800,Wholesale,Kozhikode
+O00042,2025-01-06,C0219,Tulsi Ginger,Wellness,2,280,560,Online,Kochi
+O00043,2025-01-06,W006,Tulsi Ginger,Wellness,30,280,8400,Wholesale,Bengaluru
+O00044,2025-01-07,C0196,Masala Chai Blend,Blend,2,250,500,Online,Kozhikode
+O00045,2025-01-07,W001,Tulsi Ginger,Wellness,10,280,2800,Wholesale,Kochi
+O00046,2025-01-07,C0029,Masala Chai Blend,Blend,1,250,250,Store,Bengaluru
+O00047,2025-01-07,C0182,Green Tea Classic,Wellness,3,300,900,Store,Palakkad
+O00048,2025-01-07,W006,Darjeeling First Flush,Single estate,15,650,9750,Wholesale,Bengaluru
+O00049,2025-01-08,C0314,Masala Chai Blend,Blend,2,250,500,Marketplace,Bengaluru
+O00050,2025-01-08,C0065,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00051,2025-01-08,W002,Tulsi Ginger,Wellness,15,280,4200,Wholesale,Bengaluru
+O00052,2025-01-08,C0153,Darjeeling First Flush,Single estate,1,650,650,Store,Thrissur
+O00053,2025-01-09,C0412,Darjeeling First Flush,Single estate,2,650,1300,Store,Chennai
+O00054,2025-01-09,C0458,Masala Chai Blend,Blend,2,250,500,Store,Thrissur
+O00055,2025-01-09,C0047,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Palakkad
+O00056,2025-01-09,C0055,Tulsi Ginger,Wellness,3,280,840,Online,Kochi
+O00057,2025-01-10,C0314,Masala Chai Blend,Blend,1,250,250,Store,Bengaluru
+O00058,2025-01-10,C0100,Green Tea Classic,Wellness,3,300,900,Online,Kozhikode
+O00059,,C0324,Assam CTC,Everyday,3,220,660,Store,Thrissur
+O00060,2025-01-10,C0149,Masala Chai Blend,Blend,1,250,250,Store,Kozhikode
+O00061,2025-01-10,C0527,Tulsi Ginger,Wellness,2,280,560,Online,Chennai
+O00062,2025-01-10,C0399,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O00063,2025-01-11,C0149,Gift Hamper,Gifting,1,1800,1800,Store,Kozhikode
+O00064,2025-01-11,C0055,Assam CTC,Everyday,3,220,660,Store,Thrissur
+O00065,2025-01-11,C0453,Masala Chai Blend,Blend,3,250,750,Store,Chennai
+O00066,2025-01-11,C0155,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00067,2025-01-11,C0139,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O00068,,W035,Assam CTC,Everyday,20,220,4400,Wholesale,Bengaluru
+O00069,2025-01-12,C0170,Assam CTC,Everyday,1,220,220,Online,Kochi
+O00070,2025-01-12,C0528,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Bengaluru
+O00071,2025-01-12,W021,Assam CTC,Everyday,30,220,6600,Wholesale,Thrissur
+O00072,2025-01-12,C0216,Masala Chai Blend,Blend,1,250,250,Online,Chennai
+O00073,2025-01-12,C0105,Assam CTC,Everyday,1,220,220,Marketplace,Thrissur
+O00074,2025-01-13,C0029,Masala Chai Blend,Blend,1,250,250,Store,Bengaluru
+O00075,2025-01-13,C0249,Assam CTC,Everyday,2,220,440,Online,Kochi
+O00076,2025-01-13,C0520,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O00077,2025-01-13,C0086,Masala Chai Blend,Blend,2,250,500,Online,Bengaluru
+O00078,2025-01-13,C0252,Masala Chai Blend,Blend,2,250,500,Online,Chennai
+O00079,2025-01-13,C0283,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Chennai
+O00080,2025-01-13,C0149,Masala Chai Blend,Blend,3,250,750,Store,Kozhikode
+O00081,2025-01-13,C0314,Tulsi Ginger,Wellness,1,280,280,Marketplace,Bengaluru
+O00082,2025-01-14,C0183,Masala Chai Blend,Blend,1,250,250,Marketplace,Palakkad
+O00083,2025-01-14,C0031,Masala Chai Blend,Blend,3,250,750,Online,Kochi
+O00084,2025-01-14,C0239,Green Tea Classic,Wellness,1,300,300,Online,Kochi
+O00085,2025-01-14,C0397,Green Tea Classic,Wellness,1,300,300,Online,Palakkad
+O00086,2025-01-15,W028,Assam CTC,Everyday,12,220,2640,Wholesale,Chennai
+O00087,2025-01-15,C0314,Masala Chai Blend,Blend,1,250,250,Marketplace,Bengaluru
+O00088,2025-01-15,C0147,Assam CTC,Everyday,3,220,660,Online,Kozhikode
+O00089,2025-01-15,C0396,Darjeeling First Flush,Single estate,2,650,1300,Store,Kozhikode
+O00090,2025-01-15,C0029,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O00091,2025-01-16,C0372,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O00092,2025-01-16,C0112,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00093,2025-01-16,C0534,Darjeeling First Flush,Single estate,1,650,650,Store,Bengaluru
+O00094,2025-01-16,C0071,Green Tea Classic,Wellness,1,300,300,Online,Kochi
+O00095,2025-01-16,W011,Masala Chai Blend,Blend,24,250,6000,Wholesale,Chennai
+O00096,2025-01-17,C0506,Assam CTC,Everyday,1,220,220,Store,Chennai
+O00097,2025-01-17,C0424,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O00098,2025-01-17,C0223,Masala Chai Blend,Blend,3,250,750,Marketplace,Kozhikode
+O00099,2025-01-17,C0105,Masala Chai Blend,Blend,1,250,250,Online,Thrissur
+O00100,2025-01-17,C0108,Green Tea Classic,Wellness,2,300,600,Store,Thrissur
+O00101,2025-01-17,C0324,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O00102,2025-01-18,C0342,Masala Chai Blend,Blend,2,250,500,Online,Chennai
+O00103,2025-01-18,C0031,Masala Chai Blend,Blend,2,250,500,Online,Kochi
+O00104,2025-01-18,W004,Assam CTC,Everyday,10,220,2200,Wholesale,Bengaluru
+O00105,2025-01-18,C0223,Assam CTC,Everyday,1,220,220,Online,Kozhikode
+O00106,2025-01-19,C0106,Masala Chai Blend,Blend,1,250,250,Online,Kozhikode
+O00107,2025-01-19,W002,Masala Chai Blend,Blend,12,250,3000,Wholesale,Bengaluru
+O00108,2025-01-19,C0060,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00109,2025-01-19,C0194,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00110,2025-01-19,C0448,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O00111,2025-01-19,W028,Darjeeling First Flush,Single estate,30,650,19500,Wholesale,Chennai
+O00112,2025-01-19,W007,Assam CTC,Everyday,20,220,4400,Wholesale,Kozhikode
+O00113,2025-01-19,C0039,Green Tea Classic,Wellness,1,300,300,Marketplace,Thrissur
+O00114,2025-01-20,C0048,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O00115,2025-01-20,C0100,Tulsi Ginger,Wellness,2,280,560,Online,Kozhikode
+O00116,2025-01-20,C0144,Tulsi Ginger,Wellness,1,280,280,Online,Bengaluru
+O00117,2025-01-20,C0439,Masala Chai Blend,Blend,1,250,250,Store,Chennai
+O00118,2025-01-21,C0196,Masala Chai Blend,Blend,1,250,250,Online,Kozhikode
+O00119,2025-01-21,C0399,Masala Chai Blend,Blend,1,250,250,Store,Thrissur
+O00120,2025-01-21,W002,Darjeeling First Flush,Single estate,24,650,15600,Wholesale,Bengaluru
+O00121,2025-01-21,W001,Masala Chai Blend,Blend,20,250,5000,Wholesale,Kochi
+O00122,2025-01-21,W003,Masala Chai Blend,Blend,20,250,5000,Wholesale,Thrissur
+O00123,2025-01-21,C0217,Assam CTC,Everyday,2,220,440,Store,Kochi
+O00124,2025-01-21,C0208,Masala Chai Blend,Blend,2,250,500,Online,Thrissur
+O00125,2025-01-22,C0138,Gift Hamper,Gifting,2,1800,3600,Store,Kozhikode
+O00126,2025-01-22,C0008,Darjeeling First Flush,Single estate,2,650,1300,Online,Bengaluru
+O00127,2025-01-22,C0358,Masala Chai Blend,Blend,2,250,500,Store,Kochi
+O00128,2025-01-22,C0048,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00129,2025-01-23,C0039,Tulsi Ginger,Wellness,2,280,560,Marketplace,Thrissur
+O00130,2025-01-23,C0484,Green Tea Classic,Wellness,3,300,900,Store,Kochi
+O00131,2025-01-23,C0039,Assam CTC,Everyday,2,220,440,Marketplace,Thrissur
+O00132,2025-01-24,C0460,Assam CTC,Everyday,2,220,440,Store,Kozhikode
+O00133,2025-01-24,W002,Masala Chai Blend,Blend,15,250,3750,Wholesale,Bengaluru
+O00134,2025-01-24,C0356,Masala Chai Blend,Blend,1,250,250,Online,Kozhikode
+O00135,2025-01-24,C0283,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Chennai
+O00136,2025-01-24,C0138,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O00137,2025-01-25,C0184,Darjeeling First Flush,Single estate,2,650,1300,Online,Chennai
+O00138,2025-01-25,W034,Masala Chai Blend,Blend,30,250,7500,Wholesale,Kochi
+O00139,2025-01-25,C0099,Masala Chai Blend,Blend,3,250,750,Store,Thrissur
+O00140,2025-01-25,C0096,Masala Chai Blend,Blend,1,250,250,Online,Palakkad
+O00141,2025-01-25,C0462,Masala Chai Blend,Blend,3,250,750,Online,Kochi
+O00142,2025-01-26,C0493,Darjeeling First Flush,Single estate,2,650,1300,Store,Kozhikode
+O00143,2025-01-26,C0457,Assam CTC,Everyday,1,220,220,Marketplace,Palakkad
+O00144,2025-01-26,W001,Gift Hamper,Gifting,10,1800,18000,Wholesale,Kochi
+O00145,2025-01-26,C0379,Tulsi Ginger,Wellness,1,280,280,Online,Thrissur
+O00146,2025-01-26,W002,Masala Chai Blend,Blend,24,250,6000,Wholesale,Bengaluru
+O00147,2025-01-26,C0170,Green Tea Classic,Wellness,2,300,600,Store,Kochi
+O00148,2025-01-27,C0216,Green Tea Classic,Wellness,2,300,600,Online,Kozhikode
+O00149,2025-01-27,C0043,Masala Chai Blend,Blend,2,250,500,Online,Thrissur
+O00150,2025-01-28,C0132,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O00151,2025-01-28,C0108,Tulsi Ginger,Wellness,3,280,840,Store,Thrissur
+O00152,2025-01-28,C0365,Darjeeling First Flush,Single estate,1,650,650,Online,Kozhikode
+O00153,2025-01-28,C0048,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O00154,2025-01-29,C0105,Masala Chai Blend,Blend,2,250,500,Marketplace,Thrissur
+O00155,2025-01-29,C0439,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O00156,2025-01-29,C0211,Masala Chai Blend,Blend,3,250,750,Store,Thrissur
+O00157,2025-01-29,C0052,Green Tea Classic,Wellness,2,300,600,Store,Bengaluru
+O00158,2025-01-29,C0055,Tulsi Ginger,Wellness,3,280,840,Store,Kochi
+O00159,2025-01-30,C0055,Darjeeling First Flush,Single estate,2,650,1300,Store,Kochi
+O00160,2025-01-30,C0223,Green Tea Classic,Wellness,2,300,600,Marketplace,Kozhikode
+O00161,2025-01-30,C0412,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O00162,2025-01-30,C0314,Darjeeling First Flush,Single estate,2,650,1300,Store,Bengaluru
+O00163,2025-01-30,C0071,Masala Chai Blend,Blend,3,250,750,Online,Kochi
+O00164,2025-01-31,C0248,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O00165,2025-01-31,C0532,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00166,2025-02-01,C0210,Tulsi Ginger,Wellness,2,280,560,Marketplace,Kozhikode
+O00167,2025-02-01,W011,Gift Hamper,Gifting,8,1800,14400,Wholesale,Chennai
+O00168,2025-02-01,C0330,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00169,2025-02-01,C0152,Assam CTC,Everyday,4,220,880,Online,Chennai
+O00170,2025-02-01,C0056,Green Tea Classic,Wellness,3,300,900,Store,Palakkad
+O00171,2025-02-01,C0132,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O00172,2025-02-02,C0304,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O00173,2025-02-02,C0426,Masala Chai Blend,Blend,1,250,250,Store,Thrissur
+O00174,2025-02-02,C0199,Masala Chai Blend,Blend,3,250,750,Marketplace,Bengaluru
+O00175,2025-02-02,C0505,Masala Chai Blend,Blend,3,250,750,Store,Bengaluru
+O00176,2025-02-02,C0332,Masala Chai Blend,Blend,2,250,500,Online,Kozhikode
+O00177,2025-02-02,W038,Darjeeling First Flush,Single estate,15,650,9750,Wholesale,Bengaluru
+O00178,2025-02-02,C0231,Masala Chai Blend,Blend,1,250,250,Store,Chennai
+O00179,2025-02-03,C0383,Tulsi Ginger,Wellness,2,280,560,Online,Kozhikode
+O00180,2025-02-04,W006,Darjeeling First Flush,Single estate,12,650,7800,Wholesale,Bengaluru
+O00181,2025-02-04,C0358,Assam CTC,Everyday,1,220,220,Store,Kochi
+O00182,2025-02-04,C0211,Masala Chai Blend,Blend,1,250,250,Online,Thrissur
+O00183,2025-02-04,C0065,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00184,2025-02-04,C0217,Darjeeling First Flush,Single estate,1,650,650,Store,Kochi
+O00185,2025-02-04,C0314,Green Tea Classic,Wellness,1,300,300,Marketplace,Bengaluru
+O00186,2025-02-04,C0328,Tulsi Ginger,Wellness,2,280,560,Marketplace,Palakkad
+O00187,2025-02-04,C0401,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O00188,2025-02-05,C0173,Tulsi Ginger,Wellness,1,280,280,Store,Kochi
+O00189,2025-02-05,C0060,Masala Chai Blend,Blend,3,250,750,Store,Palakkad
+O00190,2025-02-05,C0223,Darjeeling First Flush,Single estate,1,650,650,Online,Kozhikode
+O00191,2025-02-05,C0333,Gift Hamper,Gifting,1,1800,1800,Online,Bengaluru
+O00192,2025-02-06,C0311,Assam CTC,Everyday,2,220,440,Store,Chennai
+O00193,2025-02-06,C0283,Green Tea Classic,Wellness,1,300,300,Marketplace,Chennai
+O00194,2025-02-06,C0090,Masala Chai Blend,Blend,2,250,500,Store,Thrissur
+O00195,2025-02-06,C0223,Green Tea Classic,Wellness,2,300,600,Marketplace,Bengaluru
+O00196,2025-02-06,C0243,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00197,2025-02-06,W035,Darjeeling First Flush,Single estate,12,650,7800,Wholesale,Bengaluru
+O00198,2025-02-07,C0079,Gift Hamper,Gifting,2,1800,3600,Marketplace,Kochi
+O00199,2025-02-07,C0104,Green Tea Classic,Wellness,3,300,900,Store,Bengaluru
+O00200,2025-02-07,C0505,Masala Chai Blend,Blend,3,250,750,Store,Bengaluru
+O00201,2025-02-07,C0332,Assam CTC,Everyday,3,220,660,Online,Kozhikode
+O00202,2025-02-07,W032,Tulsi Ginger,Wellness,12,280,3360,Wholesale,Thrissur
+O00203,2025-02-08,C0122,Green Tea Classic,Wellness,1,300,300,Online,Kozhikode
+O00204,2025-02-08,C0139,Masala Chai Blend,Blend,1,250,250,Store,Kochi
+O00205,2025-02-08,C0487,Darjeeling First Flush,Single estate,2,650,1300,Store,Palakkad
+O00206,2025-02-08,C0379,Green Tea Classic,Wellness,2,300,600,Store,Thrissur
+O00207,2025-02-08,C0065,Assam CTC,Everyday,1,220,220,Store,Chennai
+O00208,2025-02-08,C0031,Tulsi Ginger,Wellness,3,280,840,Online,Kochi
+O00209,2025-02-08,C0099,Green Tea Classic,Wellness,3,300,900,Store,Thrissur
+O00210,2025-02-08,C0332,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Kozhikode
+O00211,2025-02-08,W020,Green Tea Classic,Wellness,30,300,9000,Wholesale,Palakkad
+O00212,2025-02-08,C0525,Assam CTC,Everyday,1,220,220,Store,Thrissur
+O00213,2025-02-09,C0178,Gift Hamper,Gifting,2,1800,3600,Online,Palakkad
+O00214,2025-02-09,W008,Darjeeling First Flush,Single estate,30,650,19500,Wholesale,Bengaluru
+O00215,2025-02-09,C0332,Masala Chai Blend,Blend,3,250,750,Online,Kozhikode
+O00216,,C0373,Darjeeling First Flush,Single estate,1,650,650,Online,Chennai
+O00217,2025-02-09,W030,Tulsi Ginger,Wellness,20,280,5600,Wholesale,Palakkad
+O00218,2025-02-10,C0152,Darjeeling First Flush,Single estate,2,650,1300,Online,Chennai
+O00219,2025-02-10,W013,Green Tea Classic,Wellness,24,300,7200,Wholesale,Bengaluru
+O00220,2025-02-10,C0055,Assam CTC,Everyday,2,220,440,Store,Kochi
+O00221,2025-02-10,C0061,Green Tea Classic,Wellness,2,300,600,Store,Bengaluru
+O00222,2025-02-10,C0211,Masala Chai Blend,Blend,1,250,250,Store,Kochi
+O00223,2025-02-10,W002,Darjeeling First Flush,Single estate,24,650,15600,Wholesale,Bengaluru
+O00224,2025-02-10,C0249,Assam CTC,Everyday,2,220,440,Online,Kochi
+O00225,2025-02-10,C0139,Assam CTC,Everyday,2,220,440,Store,Kochi
+O00226,2025-02-10,C0393,Assam CTC,Everyday,1,220,220,Store,Bengaluru
+O00227,2025-02-11,C0217,Masala Chai Blend,Blend,3,250,750,Store,Kochi
+O00228,2025-02-11,C0216,Masala Chai Blend,Blend,2,250,500,Online,Chennai
+O00229,2025-02-11,C0437,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Kochi
+O00230,2025-02-11,C0341,Masala Chai Blend,Blend,3,250,750,Online,Kozhikode
+O00231,2025-02-11,C0500,Masala Chai Blend,Blend,1,250,250,Store,Chennai
+O00232,2025-02-12,C0200,Assam CTC,Everyday,4,220,880,Store,Kochi
+O00233,2025-02-12,C0457,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Palakkad
+O00234,2025-02-12,C0182,Masala Chai Blend,Blend,1,250,250,Store,Palakkad
+O00235,2025-02-12,C0161,Gift Hamper,Gifting,2,1800,3600,Store,Palakkad
+O00236,2025-02-12,W017,Assam CTC,Everyday,15,220,3300,Wholesale,Kochi
+O00237,2025-02-13,C0039,Green Tea Classic,Wellness,1,300,300,Online,Thrissur
+O00238,2025-02-14,C0087,Assam CTC,Everyday,1,220,220,Store,Bengaluru
+O00239,2025-02-14,W013,Green Tea Classic,Wellness,15,300,4500,Wholesale,Bengaluru
+O00240,2025-02-15,C0002,Darjeeling First Flush,Single estate,1,650,650,Online,Palakkad
+O00241,2025-02-15,C0342,Gift Hamper,Gifting,1,1800,1800,Online,Chennai
+O00242,2025-02-15,W017,Masala Chai Blend,Blend,30,250,7500,Wholesale,Kochi
+O00243,2025-02-15,C0138,Green Tea Classic,Wellness,2,300,600,Store,Kozhikode
+O00244,2025-02-15,C0230,Darjeeling First Flush,Single estate,1,650,650,Store,Bengaluru
+O00245,2025-02-15,C0092,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O00246,2025-02-15,C0055,Assam CTC,Everyday,2,220,440,Online,Kochi
+O00247,2025-02-15,C0148,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O00248,2025-02-16,C0225,Masala Chai Blend,Blend,1,250,250,Store,Bengaluru
+O00249,2025-02-16,C0199,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Bengaluru
+O00250,2025-02-17,C0099,Tulsi Ginger,Wellness,1,280,280,Store,Thrissur
+O00251,2025-02-17,C0057,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O00252,2025-02-17,C0090,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O00253,2025-02-17,C0182,Assam CTC,Everyday,3,220,660,Online,Thrissur
+O00254,2025-02-18,C0001,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00255,2025-02-18,C0215,Masala Chai Blend,Blend,1,250,250,Store,Chennai
+O00256,2025-02-18,C0056,Masala Chai Blend,Blend,2,250,500,Store,Palakkad
+O00257,2025-02-18,C0039,Tulsi Ginger,Wellness,2,280,560,Online,Thrissur
+O00258,2025-02-19,W013,Assam CTC,Everyday,24,220,5280,Wholesale,Bengaluru
+O00259,2025-02-19,C0109,Gift Hamper,Gifting,2,1800,3600,Store,Palakkad
+O00260,2025-02-19,C0250,Tulsi Ginger,Wellness,2,280,560,Marketplace,Kozhikode
+O00261,2025-02-19,W033,Assam CTC,Everyday,24,220,5280,Wholesale,Palakkad
+O00262,2025-02-19,C0183,Masala Chai Blend,Blend,1,250,250,Marketplace,Palakkad
+O00263,2025-02-20,C0001,Assam CTC,Everyday,1,220,220,Store,Chennai
+O00264,2025-02-20,C0420,Masala Chai Blend,Blend,2,250,500,Marketplace,Kochi
+O00265,2025-02-20,C0478,Masala Chai Blend,Blend,1,250,250,Marketplace,Palakkad
+O00266,2025-02-20,C0147,Tulsi Ginger,Wellness,1,280,280,Store,Kozhikode
+O00267,2025-02-21,C0108,Masala Chai Blend,Blend,3,250,750,Store,Thrissur
+O00268,2025-02-21,C0056,Masala Chai Blend,Blend,3,250,750,Store,Palakkad
+O00269,2025-02-21,C0083,Assam CTC,Everyday,2,220,440,Online,Bengaluru
+O00270,2025-02-22,W007,Assam CTC,Everyday,15,220,3300,Wholesale,Kozhikode
+O00271,2025-02-22,C0065,Tulsi Ginger,Wellness,2,280,560,Store,Chennai
+O00272,2025-02-22,W003,Masala Chai Blend,Blend,15,250,3750,Wholesale,Thrissur
+O00273,2025-02-22,W007,Masala Chai Blend,Blend,20,250,5000,Wholesale,Kozhikode
+O00274,2025-02-22,C0200,Assam CTC,Everyday,2,220,440,Marketplace,Kochi
+O00275,2025-02-22,C0450,Assam CTC,Everyday,2,220,440,Online,Chennai
+O00276,2025-02-22,C0393,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O00277,2025-02-22,C0241,Masala Chai Blend,Blend,2,250,500,Store,Kochi
+O00278,2025-02-23,C0243,Green Tea Classic,Wellness,1,300,300,Online,Bengaluru
+O00279,2025-02-24,C0190,Masala Chai Blend,Blend,1,250,250,Store,Palakkad
+O00280,2025-02-24,C0057,Masala Chai Blend,Blend,3,250,750,Store,Palakkad
+O00281,2025-02-24,C0008,Gift Hamper,Gifting,1,1800,1800,Online,Bengaluru
+O00282,2025-02-25,C0328,Masala Chai Blend,Blend,2,250,500,Marketplace,Palakkad
+O00283,2025-02-25,C0299,Assam CTC,Everyday,1,220,220,Marketplace,Chennai
+O00284,2025-02-25,C0252,Masala Chai Blend,Blend,2,250,500,Online,Thrissur
+O00285,2025-02-25,C0314,Gift Hamper,Gifting,1,1800,1800,Store,Bengaluru
+O00286,2025-02-25,C0104,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00287,2025-02-25,C0031,Green Tea Classic,Wellness,2,300,600,Online,Kochi
+O00288,2025-02-25,C0073,Green Tea Classic,Wellness,2,300,600,Online,Bengaluru
+O00289,2025-02-25,C0008,Masala Chai Blend,Blend,1,250,250,Online,Bengaluru
+O00290,2025-02-26,C0552,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O00291,2025-02-26,C0075,Masala Chai Blend,Blend,2,250,500,Store,Thrissur
+O00292,2025-02-26,C0520,Darjeeling First Flush,Single estate,1,650,650,Online,Chennai
+O00293,2025-02-26,C0047,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Palakkad
+O00294,2025-02-26,C0055,Tulsi Ginger,Wellness,3,280,840,Store,Thrissur
+O00295,2025-02-27,C0057,Masala Chai Blend,Blend,1,250,250,Online,Palakkad
+O00296,,C0087,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00297,2025-02-27,C0239,Assam CTC,Everyday,4,220,880,Online,Kochi
+O00298,2025-02-28,C0332,Assam CTC,Everyday,1,220,220,Marketplace,Kozhikode
+O00299,2025-02-28,W005,Assam CTC,Everyday,10,220,2200,Wholesale,Kochi
+O00300,2025-02-28,C0173,Assam CTC,Everyday,2,220,440,Store,Kochi
+O00301,2025-02-28,W021,Assam CTC,Everyday,30,220,6600,Wholesale,Thrissur
+O00302,2025-02-28,C0002,Assam CTC,Everyday,2,220,440,Online,Palakkad
+O00303,2025-03-01,C0153,Masala Chai Blend,Blend,1,250,250,Store,Thrissur
+O00304,2025-03-01,C0183,Gift Hamper,Gifting,1,1800,1800,Marketplace,Palakkad
+O00305,2025-03-01,C0058,Assam CTC,Everyday,1,220,220,Store,Chennai
+O00306,2025-03-01,C0197,Masala Chai Blend,Blend,1,250,250,Online,Kochi
+O00307,2025-03-02,C0002,Assam CTC,Everyday,3,220,660,Online,Palakkad
+O00308,2025-03-02,C0194,Green Tea Classic,Wellness,3,300,900,Marketplace,Chennai
+O00309,2025-03-02,C0064,Assam CTC,Everyday,1,220,220,Marketplace,Thrissur
+O00310,2025-03-02,C0001,Masala Chai Blend,Blend,1,250,250,Store,Chennai
+O00311,2025-03-02,C0494,Masala Chai Blend,Blend,3,250,750,Marketplace,Chennai
+O00312,2025-03-02,C0462,Assam CTC,Everyday,1,220,220,Store,Kochi
+O00313,2025-03-03,W026,Masala Chai Blend,Blend,15,250,3750,Wholesale,Kozhikode
+O00314,2025-03-03,W036,Assam CTC,Everyday,24,220,5280,Wholesale,Kochi
+O00315,2025-03-03,C0183,Masala Chai Blend,Blend,3,250,750,Marketplace,Palakkad
+O00316,2025-03-03,C0044,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Bengaluru
+O00317,2025-03-03,C0029,Masala Chai Blend,Blend,3,250,750,Store,Bengaluru
+O00318,2025-03-03,C0236,Assam CTC,Everyday,2,220,440,Store,Kozhikode
+O00319,2025-03-03,C0022,Masala Chai Blend,Blend,2,250,500,Store,Palakkad
+O00320,2025-03-03,C0073,Tulsi Ginger,Wellness,3,280,840,Online,Bengaluru
+O00321,2025-03-04,C0483,Assam CTC,Everyday,4,220,880,Store,Chennai
+O00322,2025-03-04,C0250,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Kozhikode
+O00323,2025-03-05,C0057,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O00324,2025-03-05,C0497,Darjeeling First Flush,Single estate,2,650,1300,Store,Kochi
+O00325,2025-03-05,C0029,Masala Chai Blend,Blend,3,250,750,Store,Bengaluru
+O00326,2025-03-05,C0215,Darjeeling First Flush,Single estate,1,650,650,Store,Chennai
+O00327,2025-03-05,C0223,Assam CTC,Everyday,2,220,440,Marketplace,Kozhikode
+O00328,2025-03-05,C0116,Green Tea Classic,Wellness,1,300,300,Online,Palakkad
+O00329,2025-03-05,C0478,Green Tea Classic,Wellness,1,300,300,Marketplace,Palakkad
+O00330,2025-03-06,C0154,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O00331,2025-03-06,C0236,Assam CTC,Everyday,2,220,440,Online,Kozhikode
+O00332,2025-03-06,C0022,Gift Hamper,Gifting,2,1800,3600,Store,Palakkad
+O00333,2025-03-06,C0073,Darjeeling First Flush,Single estate,2,650,1300,Online,Bengaluru
+O00334,2025-03-06,C0493,Masala Chai Blend,Blend,3,250,750,Online,Kozhikode
+O00335,2025-03-07,C0211,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O00336,2025-03-07,C0031,Darjeeling First Flush,Single estate,1,650,650,Online,Kochi
+O00337,2025-03-08,C0494,Assam CTC,Everyday,4,220,880,Marketplace,Chennai
+O00338,2025-03-08,C0391,Assam CTC,Everyday,2,220,440,Online,Palakkad
+O00339,2025-03-08,C0483,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O00340,2025-03-08,C0196,Darjeeling First Flush,Single estate,2,650,1300,Online,Palakkad
+O00341,2025-03-10,W011,Assam CTC,Everyday,20,220,4400,Wholesale,Chennai
+O00342,2025-03-10,C0126,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O00343,2025-03-10,C0055,Masala Chai Blend,Blend,3,250,750,Store,Kochi
+O00344,2025-03-10,C0055,Masala Chai Blend,Blend,2,250,500,Store,Kochi
+O00345,2025-03-10,C0484,Green Tea Classic,Wellness,1,300,300,Online,Kochi
+O00346,2025-03-11,C0043,Gift Hamper,Gifting,1,1800,1800,Online,Thrissur
+O00347,2025-03-11,C0015,Masala Chai Blend,Blend,1,250,250,Online,Chennai
+O00348,2025-03-11,C0087,Gift Hamper,Gifting,1,1800,1800,Online,Bengaluru
+O00349,2025-03-11,C0116,Green Tea Classic,Wellness,1,300,300,Online,Palakkad
+O00350,2025-03-11,C0484,Tulsi Ginger,Wellness,3,280,840,Store,Kochi
+O00351,2025-03-12,C0439,Tulsi Ginger,Wellness,2,280,560,Store,Chennai
+O00352,2025-03-12,C0178,Assam CTC,Everyday,3,220,660,Online,Palakkad
+O00353,2025-03-12,C0355,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O00354,2025-03-12,C0283,Masala Chai Blend,Blend,1,250,250,Marketplace,Chennai
+O00355,2025-03-12,C0239,Darjeeling First Flush,Single estate,1,650,650,Online,Kochi
+O00356,2025-03-12,C0520,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00357,2025-03-12,C0199,Assam CTC,Everyday,2,220,440,Marketplace,Bengaluru
+O00358,2025-03-13,C0197,Green Tea Classic,Wellness,3,300,900,Online,Kochi
+O00359,2025-03-13,C0039,Masala Chai Blend,Blend,1,250,250,Marketplace,Thrissur
+O00360,2025-03-13,C0541,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00361,2025-03-13,C0532,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O00362,2025-03-13,C0191,Assam CTC,Everyday,2,220,440,Store,Kochi
+O00363,2025-03-13,C0259,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Bengaluru
+O00364,2025-03-13,C0186,Masala Chai Blend,Blend,2,250,500,Marketplace,Kozhikode
+O00365,2025-03-14,W010,Assam CTC,Everyday,30,220,6600,Wholesale,Kozhikode
+O00366,2025-03-14,W027,Assam CTC,Everyday,20,220,4400,Wholesale,Kochi
+O00367,2025-03-14,W019,Green Tea Classic,Wellness,12,300,3600,Wholesale,Kozhikode
+O00368,2025-03-15,W040,Assam CTC,Everyday,24,220,5280,Wholesale,Bengaluru
+O00369,2025-03-15,C0194,Tulsi Ginger,Wellness,2,280,560,Store,Chennai
+O00370,2025-03-15,C0055,Tulsi Ginger,Wellness,3,280,840,Store,Kochi
+O00371,2025-03-15,C0369,Assam CTC,Everyday,2,220,440,Store,Chennai
+O00372,2025-03-15,C0200,Assam CTC,Everyday,1,220,220,Marketplace,Kochi
+O00373,,C0039,Masala Chai Blend,Blend,1,250,250,Online,Thrissur
+O00374,2025-03-15,C0173,Green Tea Classic,Wellness,3,300,900,Store,Kochi
+O00375,2025-03-16,C0119,Assam CTC,Everyday,3,220,660,Online,Thrissur
+O00376,2025-03-16,C0194,Green Tea Classic,Wellness,3,300,900,Marketplace,Chennai
+O00377,2025-03-16,C0058,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00378,2025-03-16,C0022,Masala Chai Blend,Blend,3,250,750,Store,Palakkad
+O00379,2025-03-16,C0191,Darjeeling First Flush,Single estate,2,650,1300,Store,Kochi
+O00380,2025-03-16,W002,Assam CTC,Everyday,30,220,6600,Wholesale,Bengaluru
+O00381,2025-03-16,C0079,Masala Chai Blend,Blend,2,250,500,Marketplace,Kochi
+O00382,2025-03-17,C0144,Gift Hamper,Gifting,1,1800,1800,Online,Bengaluru
+O00383,2025-03-18,C0110,Assam CTC,Everyday,2,220,440,Marketplace,Kozhikode
+O00384,2025-03-18,C0015,Masala Chai Blend,Blend,2,250,500,Online,Chennai
+O00385,2025-03-18,C0118,Darjeeling First Flush,Single estate,2,650,1300,Online,Kozhikode
+O00386,2025-03-18,C0223,Masala Chai Blend,Blend,1,250,250,Marketplace,Bengaluru
+O00387,2025-03-18,C0469,Assam CTC,Everyday,4,220,880,Store,Kochi
+O00388,2025-03-18,C0231,Masala Chai Blend,Blend,1,250,250,Store,Chennai
+O00389,2025-03-18,C0029,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00390,2025-03-18,C0322,Tulsi Ginger,Wellness,2,280,560,Online,Kozhikode
+O00391,2025-03-18,C0221,Masala Chai Blend,Blend,1,250,250,Store,Bengaluru
+O00392,2025-03-19,C0105,Assam CTC,Everyday,3,220,660,Marketplace,Thrissur
+O00393,2025-03-19,C0424,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O00394,2025-03-19,W030,Masala Chai Blend,Blend,20,250,5000,Wholesale,Palakkad
+O00395,2025-03-19,W015,Green Tea Classic,Wellness,20,300,6000,Wholesale,Kochi
+O00396,2025-03-19,C0154,Masala Chai Blend,Blend,2,250,500,Store,Palakkad
+O00397,2025-03-19,C0064,Masala Chai Blend,Blend,2,250,500,Marketplace,Thrissur
+O00398,2025-03-19,C0058,Green Tea Classic,Wellness,2,300,600,Store,Chennai
+O00399,2025-03-19,C0186,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Kozhikode
+O00400,2025-03-20,C0148,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O00401,2025-03-20,C0159,Tulsi Ginger,Wellness,1,280,280,Online,Thrissur
+O00402,2025-03-20,C0391,Assam CTC,Everyday,2,220,440,Online,Kozhikode
+O00403,2025-03-20,C0474,Assam CTC,Everyday,3,220,660,Store,Chennai
+O00404,2025-03-20,C0043,Assam CTC,Everyday,4,220,880,Online,Thrissur
+O00405,2025-03-20,C0039,Tulsi Ginger,Wellness,2,280,560,Marketplace,Thrissur
+O00406,2025-03-21,C0056,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O00407,2025-03-21,C0221,Masala Chai Blend,Blend,2,250,500,Store,Kochi
+O00408,2025-03-21,C0122,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O00409,2025-03-21,C0223,Masala Chai Blend,Blend,3,250,750,Online,Kozhikode
+O00410,2025-03-22,C0372,Assam CTC,Everyday,2,220,440,Store,Kozhikode
+O00411,2025-03-22,C0090,Green Tea Classic,Wellness,2,300,600,Store,Thrissur
+O00412,2025-03-22,C0206,Masala Chai Blend,Blend,2,250,500,Store,Kochi
+O00413,2025-03-22,C0299,Masala Chai Blend,Blend,3,250,750,Marketplace,Chennai
+O00414,2025-03-22,C0210,Masala Chai Blend,Blend,3,250,750,Marketplace,Kozhikode
+O00415,2025-03-22,C0022,Darjeeling First Flush,Single estate,2,650,1300,Store,Palakkad
+O00416,2025-03-22,C0044,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00417,2025-03-22,C0029,Green Tea Classic,Wellness,1,300,300,Store,Bengaluru
+O00418,2025-03-22,C0039,Masala Chai Blend,Blend,3,250,750,Online,Thrissur
+O00419,2025-03-22,C0426,Assam CTC,Everyday,4,220,880,Online,Thrissur
+O00420,2025-03-23,C0420,Masala Chai Blend,Blend,2,250,500,Marketplace,Kochi
+O00421,2025-03-23,C0159,Masala Chai Blend,Blend,2,250,500,Online,Thrissur
+O00422,2025-03-23,C0260,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00423,2025-03-23,W038,Assam CTC,Everyday,30,220,6600,Wholesale,Bengaluru
+O00424,2025-03-23,C0554,Tulsi Ginger,Wellness,2,280,560,Online,Thrissur
+O00425,2025-03-23,C0387,Tulsi Ginger,Wellness,2,280,560,Store,Kozhikode
+O00426,2025-03-23,C0285,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O00427,2025-03-23,C0205,Gift Hamper,Gifting,2,1800,3600,Online,Chennai
+O00428,2025-03-23,C0117,Green Tea Classic,Wellness,2,300,600,Store,Kozhikode
+O00429,2025-03-23,C0236,Gift Hamper,Gifting,1,1800,1800,Store,Kozhikode
+O00430,2025-03-23,C0552,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O00431,2025-03-24,C0090,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O00432,2025-03-24,C0104,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O00433,2025-03-24,W014,Tulsi Ginger,Wellness,10,280,2800,Wholesale,Thrissur
+O00434,2025-03-24,C0243,Darjeeling First Flush,Single estate,1,650,650,Online,Bengaluru
+O00435,2025-03-24,C0031,Green Tea Classic,Wellness,1,300,300,Online,Kochi
+O00436,2025-03-24,C0132,Masala Chai Blend,Blend,1,250,250,Store,Palakkad
+O00437,2025-03-24,C0057,Assam CTC,Everyday,4,220,880,Store,Palakkad
+O00438,2025-03-24,C0277,Assam CTC,Everyday,2,220,440,Marketplace,Kozhikode
+O00439,2025-03-25,C0148,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O00440,2025-03-25,C0052,Masala Chai Blend,Blend,1,250,250,Store,Bengaluru
+O00441,2025-03-25,C0077,Masala Chai Blend,Blend,1,250,250,Online,Chennai
+O00442,2025-03-25,C0015,Tulsi Ginger,Wellness,2,280,560,Online,Chennai
+O00443,2025-03-25,C0384,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O00444,2025-03-25,C0503,Tulsi Ginger,Wellness,1,280,280,Store,Bengaluru
+O00445,2025-03-26,C0108,Green Tea Classic,Wellness,1,300,300,Online,Thrissur
+O00446,2025-03-26,C0224,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O00447,2025-03-26,W003,Green Tea Classic,Wellness,12,300,3600,Wholesale,Thrissur
+O00448,2025-03-27,C0223,Masala Chai Blend,Blend,1,250,250,Online,Kozhikode
+O00449,2025-03-27,C0111,Green Tea Classic,Wellness,3,300,900,Store,Palakkad
+O00450,2025-03-27,C0544,Assam CTC,Everyday,3,220,660,Store,Bengaluru
+O00451,2025-03-27,C0156,Tulsi Ginger,Wellness,2,280,560,Online,Bengaluru
+O00452,2025-03-27,C0322,Green Tea Classic,Wellness,1,300,300,Online,Kozhikode
+O00453,2025-03-27,C0355,Masala Chai Blend,Blend,1,250,250,Online,Kochi
+O00454,2025-03-28,C0248,Tulsi Ginger,Wellness,1,280,280,Store,Palakkad
+O00455,2025-03-28,C0008,Assam CTC,Everyday,2,220,440,Online,Bengaluru
+O00456,2025-03-28,C0161,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O00457,2025-03-28,C0259,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Bengaluru
+O00458,2025-03-28,W028,Masala Chai Blend,Blend,30,250,7500,Wholesale,Chennai
+O00459,2025-03-28,C0073,Tulsi Ginger,Wellness,3,280,840,Online,Bengaluru
+O00460,2025-03-29,C0012,Masala Chai Blend,Blend,1,250,250,Store,Kozhikode
+O00461,2025-03-29,C0277,Darjeeling First Flush,Single estate,2,650,1300,Online,Thrissur
+O00462,2025-03-29,C0259,Darjeeling First Flush,Single estate,2,650,1300,Online,Bengaluru
+O00463,2025-03-29,C0469,Tulsi Ginger,Wellness,1,280,280,Online,Kochi
+O00464,2025-03-29,C0057,Darjeeling First Flush,Single estate,2,650,1300,Store,Palakkad
+O00465,2025-03-29,C0506,Darjeeling First Flush,Single estate,1,650,650,Store,Chennai
+O00466,2025-03-29,C0426,Masala Chai Blend,Blend,1,250,250,Store,Thrissur
+O00467,2025-03-29,C0236,Darjeeling First Flush,Single estate,1,650,650,Online,Kozhikode
+O00468,2025-03-30,C0215,Assam CTC,Everyday,3,220,660,Online,Chennai
+O00469,2025-03-30,C0099,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O00470,2025-03-30,W003,Tulsi Ginger,Wellness,10,280,2800,Wholesale,Thrissur
+O00471,2025-03-30,C0143,Masala Chai Blend,Blend,3,250,750,Store,Kochi
+O00472,2025-03-31,C0002,Darjeeling First Flush,Single estate,1,650,650,Online,Palakkad
+O00473,2025-03-31,C0216,Green Tea Classic,Wellness,2,300,600,Online,Kozhikode
+O00474,2025-03-31,C0002,Masala Chai Blend,Blend,1,250,250,Online,Palakkad
+O00475,2025-03-31,C0194,Gift Hamper,Gifting,1,1800,1800,Store,Chennai
+O00476,2025-03-31,W009,Masala Chai Blend,Blend,10,250,2500,Wholesale,Thrissur
+O00477,2025-04-01,C0012,Masala Chai Blend,Blend,1,250,250,Store,Kozhikode
+O00478,,C0277,Assam CTC,Everyday,2,220,440,Online,Thrissur
+O00479,2025-04-01,C0001,Gift Hamper,Gifting,2,1800,3600,Store,Chennai
+O00480,2025-04-01,C0420,Masala Chai Blend,Blend,3,250,750,Marketplace,Kochi
+O00481,2025-04-01,C0122,Masala Chai Blend,Blend,2,250,500,Store,Kozhikode
+O00482,2025-04-01,C0328,Green Tea Classic,Wellness,1,300,300,Marketplace,Palakkad
+O00483,2025-04-02,C0077,Assam CTC,Everyday,2,220,440,Online,Chennai
+O00484,2025-04-02,W001,Green Tea Classic,Wellness,20,300,6000,Wholesale,Kochi
+O00485,2025-04-02,W004,Masala Chai Blend,Blend,12,250,3000,Wholesale,Bengaluru
+O00486,2025-04-02,C0211,Masala Chai Blend,Blend,2,250,500,Online,Thrissur
+O00487,2025-04-02,C0072,Assam CTC,Everyday,4,220,880,Marketplace,Bengaluru
+O00488,2025-04-03,W010,Masala Chai Blend,Blend,20,250,5000,Wholesale,Kozhikode
+O00489,2025-04-03,C0478,Masala Chai Blend,Blend,1,250,250,Marketplace,Palakkad
+O00490,2025-04-03,C0053,Gift Hamper,Gifting,2,1800,3600,Store,Palakkad
+O00491,2025-04-03,C0092,Assam CTC,Everyday,2,220,440,Store,Kozhikode
+O00492,2025-04-04,C0312,Assam CTC,Everyday,1,220,220,Online,Chennai
+O00493,2025-04-04,C0431,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00494,2025-04-04,W001,Darjeeling First Flush,Single estate,12,650,7800,Wholesale,Kochi
+O00495,2025-04-04,C0250,Tulsi Ginger,Wellness,1,280,280,Marketplace,Kozhikode
+O00496,2025-04-04,C0194,Gift Hamper,Gifting,2,1800,3600,Store,Chennai
+O00497,,C0292,Gift Hamper,Gifting,1,1800,1800,Online,Palakkad
+O00498,2025-04-04,W007,Masala Chai Blend,Blend,10,250,2500,Wholesale,Kozhikode
+O00499,2025-04-04,C0064,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Thrissur
+O00500,2025-04-04,C0173,Masala Chai Blend,Blend,2,250,500,Marketplace,Kochi
+O00501,2025-04-05,C0230,Darjeeling First Flush,Single estate,1,650,650,Store,Bengaluru
+O00502,2025-04-05,C0384,Assam CTC,Everyday,3,220,660,Online,Thrissur
+O00503,2025-04-05,C0283,Tulsi Ginger,Wellness,2,280,560,Marketplace,Chennai
+O00504,,C0067,Tulsi Ginger,Wellness,2,280,560,Online,Thrissur
+O00505,2025-04-05,C0383,Assam CTC,Everyday,3,220,660,Online,Kozhikode
+O00506,,C0126,Assam CTC,Everyday,2,220,440,Store,Kochi
+O00507,2025-04-06,C0075,Darjeeling First Flush,Single estate,1,650,650,Store,Thrissur
+O00508,2025-04-06,C0055,Masala Chai Blend,Blend,2,250,500,Store,Thrissur
+O00509,2025-04-06,W005,Assam CTC,Everyday,12,220,2640,Wholesale,Kochi
+O00510,2025-04-06,C0277,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Kozhikode
+O00511,2025-04-06,C0065,Darjeeling First Flush,Single estate,1,650,650,Store,Chennai
+O00512,2025-04-06,C0099,Tulsi Ginger,Wellness,3,280,840,Store,Thrissur
+O00513,2025-04-06,C0194,Assam CTC,Everyday,3,220,660,Store,Chennai
+O00514,2025-04-06,C0055,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O00515,2025-04-07,C0075,Tulsi Ginger,Wellness,1,280,280,Store,Thrissur
+O00516,2025-04-07,C0330,Darjeeling First Flush,Single estate,1,650,650,Store,Bengaluru
+O00517,2025-04-07,C0299,Assam CTC,Everyday,3,220,660,Marketplace,Chennai
+O00518,2025-04-07,C0072,Tulsi Ginger,Wellness,3,280,840,Marketplace,Bengaluru
+O00519,2025-04-07,C0053,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00520,2025-04-07,C0384,Masala Chai Blend,Blend,2,250,500,Online,Thrissur
+O00521,2025-04-07,C0043,Masala Chai Blend,Blend,1,250,250,Online,Thrissur
+O00522,2025-04-07,C0065,Assam CTC,Everyday,2,220,440,Store,Chennai
+O00523,2025-04-07,C0058,Darjeeling First Flush,Single estate,1,650,650,Store,Chennai
+O00524,2025-04-08,C0232,Masala Chai Blend,Blend,1,250,250,Online,Kozhikode
+O00525,2025-04-08,C0539,Green Tea Classic,Wellness,2,300,600,Online,Palakkad
+O00526,2025-04-08,W001,Darjeeling First Flush,Single estate,10,650,6500,Wholesale,Kochi
+O00527,2025-04-09,C0194,Assam CTC,Everyday,3,220,660,Store,Chennai
+O00528,2025-04-09,W035,Masala Chai Blend,Blend,24,250,6000,Wholesale,Bengaluru
+O00529,2025-04-10,C0165,Tulsi Ginger,Wellness,2,280,560,Store,Chennai
+O00530,2025-04-10,C0001,Assam CTC,Everyday,2,220,440,Store,Chennai
+O00531,2025-04-11,W008,Green Tea Classic,Wellness,15,300,4500,Wholesale,Bengaluru
+O00532,2025-04-11,C0244,Masala Chai Blend,Blend,1,250,250,Online,Kozhikode
+O00533,2025-04-11,W022,Darjeeling First Flush,Single estate,15,650,9750,Wholesale,Bengaluru
+O00534,2025-04-11,C0044,Masala Chai Blend,Blend,1,250,250,Store,Bengaluru
+O00535,2025-04-12,C0199,Green Tea Classic,Wellness,1,300,300,Marketplace,Bengaluru
+O00536,2025-04-12,C0065,Masala Chai Blend,Blend,3,250,750,Store,Chennai
+O00537,2025-04-12,C0079,Tulsi Ginger,Wellness,1,280,280,Marketplace,Kochi
+O00538,2025-04-12,C0510,Assam CTC,Everyday,4,220,880,Online,Palakkad
+O00539,2025-04-12,C0259,Green Tea Classic,Wellness,2,300,600,Marketplace,Bengaluru
+O00540,2025-04-12,C0057,Masala Chai Blend,Blend,3,250,750,Online,Palakkad
+O00541,2025-04-12,C0062,Green Tea Classic,Wellness,3,300,900,Store,Thrissur
+O00542,2025-04-12,C0196,Green Tea Classic,Wellness,1,300,300,Online,Kozhikode
+O00543,2025-04-12,C0328,Masala Chai Blend,Blend,2,250,500,Marketplace,Palakkad
+O00544,2025-04-13,C0055,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O00545,2025-04-13,C0453,Masala Chai Blend,Blend,1,250,250,Store,Chennai
+O00546,,W040,Masala Chai Blend,Blend,12,250,3000,Wholesale,Bengaluru
+O00547,2025-04-14,C0048,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O00548,2025-04-14,C0132,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O00549,2025-04-15,C0532,Green Tea Classic,Wellness,2,300,600,Store,Palakkad
+O00550,2025-04-15,C0314,Gift Hamper,Gifting,2,1800,3600,Marketplace,Bengaluru
+O00551,2025-04-15,C0055,Masala Chai Blend,Blend,2,250,500,Store,Kochi
+O00552,2025-04-15,C0236,Masala Chai Blend,Blend,3,250,750,Store,Kozhikode
+O00553,2025-04-15,C0038,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O00554,2025-04-15,C0415,Green Tea Classic,Wellness,2,300,600,Online,Kochi
+O00555,2025-04-15,C0264,Tulsi Ginger,Wellness,2,280,560,Marketplace,Kozhikode
+O00556,2025-04-16,W018,Masala Chai Blend,Blend,24,250,6000,Wholesale,Bengaluru
+O00557,2025-04-16,C0152,Masala Chai Blend,Blend,2,250,500,Online,Chennai
+O00558,2025-04-16,C0029,Darjeeling First Flush,Single estate,2,650,1300,Store,Bengaluru
+O00559,2025-04-16,C0190,Darjeeling First Flush,Single estate,2,650,1300,Store,Palakkad
+O00560,2025-04-16,C0385,Assam CTC,Everyday,3,220,660,Store,Chennai
+O00561,2025-04-16,C0022,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O00562,2025-04-17,C0322,Darjeeling First Flush,Single estate,2,650,1300,Online,Kozhikode
+O00563,2025-04-17,C0343,Green Tea Classic,Wellness,1,300,300,Online,Thrissur
+O00564,2025-04-17,C0002,Assam CTC,Everyday,4,220,880,Online,Palakkad
+O00565,2025-04-17,C0217,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O00566,2025-04-17,C0105,Tulsi Ginger,Wellness,2,280,560,Online,Thrissur
+O00567,2025-04-17,C0200,Green Tea Classic,Wellness,3,300,900,Store,Kochi
+O00568,2025-04-18,C0545,Assam CTC,Everyday,1,220,220,Online,Kozhikode
+O00569,2025-04-18,C0401,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O00570,2025-04-19,C0249,Masala Chai Blend,Blend,2,250,500,Online,Kochi
+O00571,2025-04-19,C0396,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O00572,2025-04-19,C0117,Masala Chai Blend,Blend,3,250,750,Store,Kozhikode
+O00573,2025-04-19,C0053,Tulsi Ginger,Wellness,1,280,280,Store,Palakkad
+O00574,2025-04-19,C0530,Masala Chai Blend,Blend,1,250,250,Marketplace,Thrissur
+O00575,2025-04-19,C0022,Masala Chai Blend,Blend,2,250,500,Store,Palakkad
+O00576,2025-04-19,C0100,Assam CTC,Everyday,4,220,880,Online,Kozhikode
+O00577,2025-04-19,C0374,Masala Chai Blend,Blend,2,250,500,Store,Kochi
+O00578,2025-04-19,C0139,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O00579,2025-04-19,C0399,Masala Chai Blend,Blend,3,250,750,Online,Thrissur
+O00580,2025-04-19,C0108,Assam CTC,Everyday,3,220,660,Store,Thrissur
+O00581,2025-04-19,C0053,Green Tea Classic,Wellness,1,300,300,Online,Palakkad
+O00582,2025-04-20,C0044,Masala Chai Blend,Blend,1,250,250,Marketplace,Bengaluru
+O00583,2025-04-20,C0194,Gift Hamper,Gifting,2,1800,3600,Store,Chennai
+O00584,2025-04-20,C0313,Masala Chai Blend,Blend,1,250,250,Online,Kozhikode
+O00585,2025-04-20,C0001,Assam CTC,Everyday,3,220,660,Store,Chennai
+O00586,2025-04-20,C0527,Green Tea Classic,Wellness,2,300,600,Online,Chennai
+O00587,2025-04-20,C0224,Tulsi Ginger,Wellness,3,280,840,Store,Thrissur
+O00588,2025-04-20,C0211,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O00589,2025-04-21,C0386,Masala Chai Blend,Blend,2,250,500,Store,Palakkad
+O00590,2025-04-21,C0500,Assam CTC,Everyday,3,220,660,Store,Chennai
+O00591,2025-04-21,C0244,Green Tea Classic,Wellness,3,300,900,Online,Kozhikode
+O00592,2025-04-22,C0390,Tulsi Ginger,Wellness,2,280,560,Store,Kozhikode
+O00593,2025-04-22,C0056,Masala Chai Blend,Blend,1,250,250,Store,Palakkad
+O00594,2025-04-22,C0399,Green Tea Classic,Wellness,1,300,300,Online,Thrissur
+O00595,2025-04-22,C0047,Masala Chai Blend,Blend,1,250,250,Marketplace,Palakkad
+O00596,2025-04-22,C0448,Tulsi Ginger,Wellness,2,280,560,Store,Kozhikode
+O00597,2025-04-23,C0379,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O00598,2025-04-23,C0236,Masala Chai Blend,Blend,2,250,500,Store,Kozhikode
+O00599,2025-04-23,C0258,Masala Chai Blend,Blend,1,250,250,Marketplace,Thrissur
+O00600,2025-04-23,C0243,Tulsi Ginger,Wellness,3,280,840,Store,Bengaluru
+O00601,2025-04-24,C0248,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O00602,2025-04-24,C0243,Masala Chai Blend,Blend,2,250,500,Online,Bengaluru
+O00603,2025-04-24,C0285,Gift Hamper,Gifting,2,1800,3600,Store,Palakkad
+O00604,2025-04-24,C0246,Darjeeling First Flush,Single estate,1,650,650,Online,Kochi
+O00605,2025-04-24,W034,Darjeeling First Flush,Single estate,20,650,13000,Wholesale,Kochi
+O00606,2025-04-24,C0001,Masala Chai Blend,Blend,3,250,750,Store,Chennai
+O00607,2025-04-25,W004,Assam CTC,Everyday,15,220,3300,Wholesale,Bengaluru
+O00608,2025-04-26,C0288,Green Tea Classic,Wellness,2,300,600,Store,Kochi
+O00609,2025-04-27,C0196,Gift Hamper,Gifting,1,1800,1800,Online,Kozhikode
+O00610,2025-04-27,C0239,Tulsi Ginger,Wellness,2,280,560,Online,Kochi
+O00611,2025-04-27,C0039,Assam CTC,Everyday,4,220,880,Marketplace,Thrissur
+O00612,2025-04-27,C0337,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00613,2025-04-27,C0309,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O00614,2025-04-27,C0130,Gift Hamper,Gifting,1,1800,1800,Marketplace,Kochi
+O00615,2025-04-27,W001,Darjeeling First Flush,Single estate,12,650,7800,Wholesale,Kochi
+O00616,2025-04-27,C0172,Gift Hamper,Gifting,1,1800,1800,Online,Bengaluru
+O00617,2025-04-27,C0055,Green Tea Classic,Wellness,3,300,900,Store,Kochi
+O00618,2025-04-28,C0022,Tulsi Ginger,Wellness,1,280,280,Store,Palakkad
+O00619,2025-04-28,C0220,Masala Chai Blend,Blend,3,250,750,Online,Kozhikode
+O00620,2025-04-28,C0356,Masala Chai Blend,Blend,1,250,250,Online,Thrissur
+O00621,2025-04-28,C0313,Masala Chai Blend,Blend,1,250,250,Online,Palakkad
+O00622,2025-04-28,C0057,Gift Hamper,Gifting,2,1800,3600,Store,Palakkad
+O00623,2025-04-29,C0064,Green Tea Classic,Wellness,2,300,600,Marketplace,Thrissur
+O00624,2025-04-29,C0038,Masala Chai Blend,Blend,3,250,750,Online,Bengaluru
+O00625,2025-04-29,C0385,Masala Chai Blend,Blend,1,250,250,Store,Chennai
+O00626,2025-04-29,C0053,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00627,2025-04-29,C0434,Green Tea Classic,Wellness,1,300,300,Store,Bengaluru
+O00628,2025-04-29,C0223,Masala Chai Blend,Blend,2,250,500,Online,Kozhikode
+O00629,2025-04-29,C0092,Assam CTC,Everyday,1,220,220,Store,Kozhikode
+O00630,2025-04-30,C0226,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O00631,2025-04-30,C0394,Assam CTC,Everyday,3,220,660,Store,Kochi
+O00632,2025-04-30,C0099,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O00633,2025-04-30,C0067,Darjeeling First Flush,Single estate,2,650,1300,Online,Thrissur
+O00634,2025-04-30,C0056,Masala Chai Blend,Blend,1,250,250,Store,Palakkad
+O00635,2025-04-30,C0264,Masala Chai Blend,Blend,3,250,750,Marketplace,Kozhikode
+O00636,2025-04-30,W013,Assam CTC,Everyday,15,220,3300,Wholesale,Bengaluru
+O00637,2025-04-30,C0052,Gift Hamper,Gifting,1,1800,1800,Store,Bengaluru
+O00638,2025-05-01,C0232,Darjeeling First Flush,Single estate,1,650,650,Online,Kozhikode
+O00639,2025-05-01,W006,Masala Chai Blend,Blend,24,250,6000,Wholesale,Bengaluru
+O00640,2025-05-01,C0458,Assam CTC,Everyday,1,220,220,Store,Kozhikode
+O00641,2025-05-01,C0522,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00642,2025-05-01,C0196,Assam CTC,Everyday,4,220,880,Online,Kozhikode
+O00643,2025-05-01,C0464,Masala Chai Blend,Blend,2,250,500,Store,Palakkad
+O00644,2025-05-01,C0544,Tulsi Ginger,Wellness,1,280,280,Store,Bengaluru
+O00645,2025-05-01,C0121,Green Tea Classic,Wellness,3,300,900,Store,Thrissur
+O00646,2025-05-01,C0222,Masala Chai Blend,Blend,3,250,750,Store,Bengaluru
+O00647,2025-05-01,C0403,Assam CTC,Everyday,1,220,220,Store,Thrissur
+O00648,2025-05-01,C0210,Masala Chai Blend,Blend,3,250,750,Marketplace,Kozhikode
+O00649,2025-05-02,C0057,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O00650,2025-05-02,C0450,Masala Chai Blend,Blend,1,250,250,Online,Chennai
+O00651,2025-05-02,C0121,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O00652,2025-05-03,W002,Darjeeling First Flush,Single estate,12,650,7800,Wholesale,Bengaluru
+O00653,2025-05-03,C0109,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O00654,2025-05-03,W009,Tulsi Ginger,Wellness,15,280,4200,Wholesale,Thrissur
+O00655,2025-05-03,C0248,Masala Chai Blend,Blend,2,250,500,Store,Palakkad
+O00656,2025-05-03,C0547,Assam CTC,Everyday,1,220,220,Marketplace,Palakkad
+O00657,2025-05-04,C0264,Assam CTC,Everyday,2,220,440,Marketplace,Kozhikode
+O00658,2025-05-04,C0008,Green Tea Classic,Wellness,3,300,900,Online,Bengaluru
+O00659,2025-05-04,C0173,Green Tea Classic,Wellness,1,300,300,Marketplace,Kochi
+O00660,2025-05-04,C0330,Masala Chai Blend,Blend,1,250,250,Store,Thrissur
+O00661,2025-05-04,C0075,Masala Chai Blend,Blend,2,250,500,Store,Thrissur
+O00662,2025-05-04,C0032,Masala Chai Blend,Blend,2,250,500,Online,Chennai
+O00663,2025-05-04,C0056,Assam CTC,Everyday,3,220,660,Store,Palakkad
+O00664,2025-05-04,C0064,Assam CTC,Everyday,2,220,440,Marketplace,Thrissur
+O00665,2025-05-04,C0345,Gift Hamper,Gifting,1,1800,1800,Store,Kochi
+O00666,2025-05-05,C0284,Gift Hamper,Gifting,1,1800,1800,Store,Kozhikode
+O00667,2025-05-05,C0230,Tulsi Ginger,Wellness,3,280,840,Store,Bengaluru
+O00668,2025-05-05,C0552,Masala Chai Blend,Blend,1,250,250,Store,Kozhikode
+O00669,2025-05-06,W001,Green Tea Classic,Wellness,12,300,3600,Wholesale,Kochi
+O00670,2025-05-06,C0283,Masala Chai Blend,Blend,1,250,250,Marketplace,Chennai
+O00671,2025-05-07,C0205,Assam CTC,Everyday,1,220,220,Online,Chennai
+O00672,2025-05-07,C0077,Darjeeling First Flush,Single estate,1,650,650,Online,Chennai
+O00673,2025-05-07,W001,Assam CTC,Everyday,30,220,6600,Wholesale,Kochi
+O00674,2025-05-07,C0313,Masala Chai Blend,Blend,2,250,500,Online,Kozhikode
+O00675,2025-05-07,C0126,Assam CTC,Everyday,2,220,440,Store,Kochi
+O00676,2025-05-08,C0277,Assam CTC,Everyday,2,220,440,Online,Kozhikode
+O00677,2025-05-09,C0249,Assam CTC,Everyday,4,220,880,Online,Kochi
+O00678,2025-05-09,C0458,Masala Chai Blend,Blend,2,250,500,Store,Kozhikode
+O00679,2025-05-10,C0008,Gift Hamper,Gifting,1,1800,1800,Online,Bengaluru
+O00680,2025-05-10,C0215,Assam CTC,Everyday,2,220,440,Store,Chennai
+O00681,2025-05-10,C0194,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00682,2025-05-10,C0126,Masala Chai Blend,Blend,1,250,250,Store,Kochi
+O00683,2025-05-10,C0497,Darjeeling First Flush,Single estate,1,650,650,Store,Kochi
+O00684,2025-05-10,C0008,Assam CTC,Everyday,2,220,440,Online,Bengaluru
+O00685,2025-05-10,C0147,Darjeeling First Flush,Single estate,1,650,650,Online,Kozhikode
+O00686,2025-05-10,C0056,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O00687,2025-05-10,C0077,Masala Chai Blend,Blend,1,250,250,Online,Chennai
+O00688,2025-05-10,W006,Masala Chai Blend,Blend,24,250,6000,Wholesale,Bengaluru
+O00689,2025-05-11,C0277,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O00690,2025-05-11,C0134,Masala Chai Blend,Blend,1,250,250,Store,Palakkad
+O00691,2025-05-11,C0008,Masala Chai Blend,Blend,2,250,500,Online,Bengaluru
+O00692,2025-05-11,C0298,Masala Chai Blend,Blend,2,250,500,Store,Kochi
+O00693,2025-05-11,C0170,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O00694,2025-05-11,C0283,Green Tea Classic,Wellness,2,300,600,Marketplace,Chennai
+O00695,2025-05-12,C0117,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O00696,2025-05-12,C0047,Green Tea Classic,Wellness,2,300,600,Marketplace,Palakkad
+O00697,2025-05-12,C0560,Assam CTC,Everyday,3,220,660,Online,Kochi
+O00698,2025-05-13,W019,Green Tea Classic,Wellness,20,300,6000,Wholesale,Kozhikode
+O00699,2025-05-13,C0117,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O00700,2025-05-13,C0121,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O00701,2025-05-13,C0187,Green Tea Classic,Wellness,3,300,900,Marketplace,Chennai
+O00702,2025-05-14,C0153,Green Tea Classic,Wellness,3,300,900,Store,Thrissur
+O00703,2025-05-14,C0206,Darjeeling First Flush,Single estate,1,650,650,Store,Kochi
+O00704,2025-05-14,C0048,Darjeeling First Flush,Single estate,1,650,650,Store,Chennai
+O00705,2025-05-14,W014,Masala Chai Blend,Blend,10,250,2500,Wholesale,Thrissur
+O00706,2025-05-14,W012,Masala Chai Blend,Blend,30,250,7500,Wholesale,Kochi
+O00707,2025-05-14,C0069,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O00708,2025-05-14,C0394,Assam CTC,Everyday,1,220,220,Store,Kochi
+O00709,2025-05-14,C0087,Darjeeling First Flush,Single estate,2,650,1300,Store,Bengaluru
+O00710,2025-05-14,C0273,Assam CTC,Everyday,1,220,220,Store,Thrissur
+O00711,2025-05-15,C0532,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O00712,2025-05-15,W004,Assam CTC,Everyday,12,220,2640,Wholesale,Bengaluru
+O00713,2025-05-15,C0516,Green Tea Classic,Wellness,1,300,300,Marketplace,Bengaluru
+O00714,2025-05-15,C0170,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O00715,2025-05-15,C0064,Gift Hamper,Gifting,1,1800,1800,Marketplace,Thrissur
+O00716,2025-05-16,C0187,Tulsi Ginger,Wellness,3,280,840,Online,Chennai
+O00717,2025-05-16,C0008,Assam CTC,Everyday,2,220,440,Online,Bengaluru
+O00718,2025-05-16,C0002,Masala Chai Blend,Blend,2,250,500,Online,Palakkad
+O00719,2025-05-16,C0387,Masala Chai Blend,Blend,2,250,500,Online,Kozhikode
+O00720,2025-05-16,C0170,Assam CTC,Everyday,2,220,440,Store,Kochi
+O00721,2025-05-16,C0057,Masala Chai Blend,Blend,1,250,250,Online,Palakkad
+O00722,2025-05-17,C0054,Masala Chai Blend,Blend,2,250,500,Online,Chennai
+O00723,2025-05-17,C0002,Darjeeling First Flush,Single estate,1,650,650,Online,Palakkad
+O00724,2025-05-17,C0053,Tulsi Ginger,Wellness,1,280,280,Store,Palakkad
+O00725,2025-05-17,C0259,Masala Chai Blend,Blend,3,250,750,Marketplace,Bengaluru
+O00726,2025-05-17,W005,Masala Chai Blend,Blend,12,250,3000,Wholesale,Kochi
+O00727,2025-05-17,C0260,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00728,2025-05-18,C0259,Gift Hamper,Gifting,1,1800,1800,Marketplace,Bengaluru
+O00729,2025-05-18,C0038,Darjeeling First Flush,Single estate,1,650,650,Online,Bengaluru
+O00730,2025-05-18,W004,Masala Chai Blend,Blend,24,250,6000,Wholesale,Bengaluru
+O00731,2025-05-19,C0314,Assam CTC,Everyday,3,220,660,Marketplace,Bengaluru
+O00732,2025-05-19,C0239,Masala Chai Blend,Blend,1,250,250,Online,Kochi
+O00733,2025-05-19,C0056,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O00734,2025-05-19,C0356,Darjeeling First Flush,Single estate,2,650,1300,Online,Thrissur
+O00735,2025-05-19,C0209,Gift Hamper,Gifting,1,1800,1800,Store,Kochi
+O00736,2025-05-19,C0138,Green Tea Classic,Wellness,3,300,900,Store,Kozhikode
+O00737,2025-05-19,W029,Assam CTC,Everyday,30,220,6600,Wholesale,Kochi
+O00738,2025-05-20,C0215,Masala Chai Blend,Blend,3,250,750,Store,Chennai
+O00739,2025-05-20,C0208,Green Tea Classic,Wellness,2,300,600,Online,Thrissur
+O00740,2025-05-20,C0277,Masala Chai Blend,Blend,2,250,500,Online,Thrissur
+O00741,2025-05-20,C0299,Gift Hamper,Gifting,1,1800,1800,Marketplace,Chennai
+O00742,2025-05-20,C0409,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O00743,2025-05-20,C0077,Assam CTC,Everyday,1,220,220,Online,Chennai
+O00744,2025-05-21,C0064,Green Tea Classic,Wellness,3,300,900,Marketplace,Thrissur
+O00745,2025-05-22,C0520,Masala Chai Blend,Blend,1,250,250,Store,Chennai
+O00746,2025-05-22,C0155,Tulsi Ginger,Wellness,2,280,560,Store,Chennai
+O00747,2025-05-22,C0283,Masala Chai Blend,Blend,2,250,500,Marketplace,Chennai
+O00748,2025-05-22,C0032,Masala Chai Blend,Blend,2,250,500,Online,Chennai
+O00749,2025-05-22,C0079,Masala Chai Blend,Blend,2,250,500,Marketplace,Kochi
+O00750,2025-05-22,C0548,Darjeeling First Flush,Single estate,1,650,650,Store,Kochi
+O00751,2025-05-22,C0258,Assam CTC,Everyday,3,220,660,Marketplace,Thrissur
+O00752,2025-05-22,C0069,Assam CTC,Everyday,4,220,880,Store,Kozhikode
+O00753,2025-05-23,C0029,Masala Chai Blend,Blend,3,250,750,Store,Bengaluru
+O00754,2025-05-23,C0055,Masala Chai Blend,Blend,2,250,500,Online,Kochi
+O00755,2025-05-23,W032,Green Tea Classic,Wellness,24,300,7200,Wholesale,Thrissur
+O00756,2025-05-23,W004,Darjeeling First Flush,Single estate,20,650,13000,Wholesale,Bengaluru
+O00757,2025-05-24,C0044,Masala Chai Blend,Blend,3,250,750,Marketplace,Bengaluru
+O00758,2025-05-24,W001,Assam CTC,Everyday,20,220,4400,Wholesale,Kochi
+O00759,2025-05-24,C0057,Assam CTC,Everyday,3,220,660,Online,Palakkad
+O00760,2025-05-24,W013,Masala Chai Blend,Blend,24,250,6000,Wholesale,Bengaluru
+O00761,2025-05-24,C0182,Masala Chai Blend,Blend,1,250,250,Store,Thrissur
+O00762,2025-05-25,W030,Gift Hamper,Gifting,6,1800,10800,Wholesale,Palakkad
+O00763,2025-05-25,W006,Darjeeling First Flush,Single estate,12,650,7800,Wholesale,Bengaluru
+O00764,2025-05-25,C0243,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00765,2025-05-25,C0184,Assam CTC,Everyday,3,220,660,Online,Chennai
+O00766,2025-05-26,C0373,Masala Chai Blend,Blend,2,250,500,Online,Chennai
+O00767,2025-05-26,C0194,Assam CTC,Everyday,2,220,440,Marketplace,Chennai
+O00768,2025-05-26,C0378,Assam CTC,Everyday,2,220,440,Store,Kozhikode
+O00769,2025-05-26,C0432,Masala Chai Blend,Blend,1,250,250,Store,Kochi
+O00770,2025-05-26,C0211,Assam CTC,Everyday,3,220,660,Online,Thrissur
+O00771,2025-05-26,C0210,Tulsi Ginger,Wellness,1,280,280,Marketplace,Kozhikode
+O00772,2025-05-26,C0185,Masala Chai Blend,Blend,1,250,250,Store,Palakkad
+O00773,2025-05-26,C0083,Green Tea Classic,Wellness,1,300,300,Online,Bengaluru
+O00774,2025-05-26,C0534,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O00775,2025-05-27,C0502,Green Tea Classic,Wellness,3,300,900,Store,Chennai
+O00776,2025-05-27,W004,Assam CTC,Everyday,24,220,5280,Wholesale,Bengaluru
+O00777,2025-05-27,C0001,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O00778,2025-05-27,W018,Assam CTC,Everyday,20,220,4400,Wholesale,Bengaluru
+O00779,2025-05-27,C0223,Masala Chai Blend,Blend,1,250,250,Marketplace,Kozhikode
+O00780,2025-05-28,W004,Masala Chai Blend,Blend,20,250,5000,Wholesale,Bengaluru
+O00781,2025-05-28,C0132,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00782,2025-05-28,W039,Assam CTC,Everyday,30,220,6600,Wholesale,Chennai
+O00783,2025-05-28,C0229,Darjeeling First Flush,Single estate,1,650,650,Store,Thrissur
+O00784,2025-05-29,C0243,Masala Chai Blend,Blend,1,250,250,Store,Bengaluru
+O00785,2025-05-29,C0385,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O00786,2025-05-29,C0144,Masala Chai Blend,Blend,1,250,250,Online,Bengaluru
+O00787,2025-05-29,C0295,Assam CTC,Everyday,1,220,220,Marketplace,Chennai
+O00788,2025-05-30,C0075,Masala Chai Blend,Blend,3,250,750,Store,Thrissur
+O00789,2025-05-30,C0190,Gift Hamper,Gifting,2,1800,3600,Store,Palakkad
+O00790,2025-05-31,C0001,Assam CTC,Everyday,2,220,440,Store,Chennai
+O00791,,C0145,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O00792,2025-05-31,C0056,Masala Chai Blend,Blend,2,250,500,Store,Palakkad
+O00793,2025-05-31,C0369,Assam CTC,Everyday,3,220,660,Store,Chennai
+O00794,2025-05-31,C0143,Tulsi Ginger,Wellness,1,280,280,Store,Kochi
+O00795,2025-05-31,C0330,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O00796,2025-05-31,C0044,Masala Chai Blend,Blend,1,250,250,Store,Bengaluru
+O00797,,W006,Masala Chai Blend,Blend,20,250,5000,Wholesale,Bengaluru
+O00798,2025-05-31,W002,Darjeeling First Flush,Single estate,30,650,19500,Wholesale,Bengaluru
+O00799,2025-06-01,C0071,Assam CTC,Everyday,4,220,880,Online,Kochi
+O00800,2025-06-01,C0053,Masala Chai Blend,Blend,3,250,750,Store,Palakkad
+O00801,2025-06-01,C0062,Assam CTC,Everyday,1,220,220,Store,Thrissur
+O00802,2025-06-01,W012,Masala Chai Blend,Blend,30,250,7500,Wholesale,Kochi
+O00803,2025-06-01,C0112,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00804,2025-06-01,C0381,Masala Chai Blend,Blend,3,250,750,Online,Thrissur
+O00805,2025-06-02,C0055,Assam CTC,Everyday,1,220,220,Online,Kochi
+O00806,2025-06-02,C0038,Tulsi Ginger,Wellness,3,280,840,Store,Bengaluru
+O00807,2025-06-02,C0057,Tulsi Ginger,Wellness,3,280,840,Online,Palakkad
+O00808,2025-06-02,C0057,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O00809,2025-06-03,W001,Assam CTC,Everyday,10,220,2200,Wholesale,Kochi
+O00810,2025-06-03,C0227,Masala Chai Blend,Blend,1,250,250,Store,Kochi
+O00811,2025-06-03,C0299,Masala Chai Blend,Blend,1,250,250,Marketplace,Chennai
+O00812,2025-06-03,C0217,Masala Chai Blend,Blend,2,250,500,Store,Kochi
+O00813,2025-06-03,C0130,Tulsi Ginger,Wellness,2,280,560,Marketplace,Kochi
+O00814,2025-06-03,C0194,Assam CTC,Everyday,3,220,660,Store,Chennai
+O00815,2025-06-03,C0186,Tulsi Ginger,Wellness,3,280,840,Store,Kozhikode
+O00816,2025-06-04,C0121,Gift Hamper,Gifting,1,1800,1800,Store,Thrissur
+O00817,2025-06-04,W007,Masala Chai Blend,Blend,30,250,7500,Wholesale,Kozhikode
+O00818,2025-06-04,C0067,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O00819,2025-06-04,C0489,Tulsi Ginger,Wellness,3,280,840,Online,Kozhikode
+O00820,2025-06-04,C0032,Assam CTC,Everyday,2,220,440,Online,Chennai
+O00821,2025-06-04,C0080,Assam CTC,Everyday,2,220,440,Online,Thrissur
+O00822,2025-06-05,C0064,Assam CTC,Everyday,1,220,220,Marketplace,Thrissur
+O00823,2025-06-05,C0246,Masala Chai Blend,Blend,1,250,250,Online,Kochi
+O00824,2025-06-05,W021,Darjeeling First Flush,Single estate,20,650,13000,Wholesale,Thrissur
+O00825,2025-06-05,C0233,Darjeeling First Flush,Single estate,1,650,650,Store,Thrissur
+O00826,2025-06-05,C0055,Gift Hamper,Gifting,1,1800,1800,Store,Thrissur
+O00827,2025-06-05,W025,Tulsi Ginger,Wellness,15,280,4200,Wholesale,Palakkad
+O00828,2025-06-06,C0039,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O00829,2025-06-06,C0022,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O00830,2025-06-06,C0323,Assam CTC,Everyday,3,220,660,Store,Kochi
+O00831,2025-06-06,C0002,Darjeeling First Flush,Single estate,1,650,650,Online,Palakkad
+O00832,2025-06-06,C0186,Gift Hamper,Gifting,2,1800,3600,Marketplace,Kozhikode
+O00833,2025-06-07,C0399,Assam CTC,Everyday,3,220,660,Store,Thrissur
+O00834,2025-06-07,C0173,Assam CTC,Everyday,2,220,440,Store,Kochi
+O00835,2025-06-07,C0530,Tulsi Ginger,Wellness,3,280,840,Marketplace,Thrissur
+O00836,2025-06-08,C0185,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O00837,2025-06-08,C0448,Masala Chai Blend,Blend,2,250,500,Store,Kozhikode
+O00838,2025-06-08,C0008,Green Tea Classic,Wellness,1,300,300,Online,Bengaluru
+O00839,2025-06-08,C0161,Masala Chai Blend,Blend,1,250,250,Store,Palakkad
+O00840,2025-06-08,C0226,Masala Chai Blend,Blend,2,250,500,Store,Thrissur
+O00841,2025-06-08,C0090,Masala Chai Blend,Blend,2,250,500,Store,Thrissur
+O00842,2025-06-08,C0439,Tulsi Ginger,Wellness,2,280,560,Store,Chennai
+O00843,2025-06-09,C0232,Tulsi Ginger,Wellness,2,280,560,Online,Kozhikode
+O00844,2025-06-09,C0080,Masala Chai Blend,Blend,3,250,750,Online,Thrissur
+O00845,2025-06-09,W002,Tulsi Ginger,Wellness,12,280,3360,Wholesale,Bengaluru
+O00846,2025-06-09,C0077,Tulsi Ginger,Wellness,1,280,280,Store,Chennai
+O00847,2025-06-09,C0056,Masala Chai Blend,Blend,1,250,250,Store,Palakkad
+O00848,2025-06-09,C0148,Masala Chai Blend,Blend,2,250,500,Store,Palakkad
+O00849,2025-06-10,W018,Assam CTC,Everyday,30,220,6600,Wholesale,Bengaluru
+O00850,2025-06-11,C0064,Masala Chai Blend,Blend,2,250,500,Marketplace,Thrissur
+O00851,2025-06-11,C0226,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O00852,2025-06-11,C0015,Darjeeling First Flush,Single estate,1,650,650,Online,Chennai
+O00853,2025-06-11,C0053,Tulsi Ginger,Wellness,2,280,560,Online,Palakkad
+O00854,2025-06-11,C0015,Assam CTC,Everyday,1,220,220,Online,Chennai
+O00855,2025-06-11,C0289,Green Tea Classic,Wellness,2,300,600,Online,Palakkad
+O00856,2025-06-11,C0256,Assam CTC,Everyday,1,220,220,Online,Kozhikode
+O00857,2025-06-11,C0330,Tulsi Ginger,Wellness,1,280,280,Store,Thrissur
+O00858,2025-06-11,W015,Tulsi Ginger,Wellness,20,280,5600,Wholesale,Kochi
+O00859,2025-06-11,C0071,Darjeeling First Flush,Single estate,1,650,650,Online,Kochi
+O00860,2025-06-12,C0141,Assam CTC,Everyday,4,220,880,Online,Chennai
+O00861,2025-06-12,C0029,Green Tea Classic,Wellness,2,300,600,Store,Bengaluru
+O00862,2025-06-12,C0170,Tulsi Ginger,Wellness,2,280,560,Online,Kochi
+O00863,2025-06-12,C0148,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O00864,2025-06-13,C0330,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00865,2025-06-13,W036,Masala Chai Blend,Blend,20,250,5000,Wholesale,Kochi
+O00866,2025-06-13,C0298,Gift Hamper,Gifting,1,1800,1800,Store,Kochi
+O00867,2025-06-13,C0109,Darjeeling First Flush,Single estate,1,650,650,Store,Kochi
+O00868,2025-06-13,C0173,Gift Hamper,Gifting,2,1800,3600,Marketplace,Kochi
+O00869,2025-06-13,C0356,Green Tea Classic,Wellness,3,300,900,Marketplace,Kozhikode
+O00870,2025-06-14,C0105,Assam CTC,Everyday,2,220,440,Marketplace,Thrissur
+O00871,2025-06-14,C0087,Gift Hamper,Gifting,1,1800,1800,Store,Bengaluru
+O00872,2025-06-14,C0077,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O00873,2025-06-14,C0483,Assam CTC,Everyday,3,220,660,Store,Chennai
+O00874,2025-06-14,C0516,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Bengaluru
+O00875,2025-06-14,C0184,Assam CTC,Everyday,3,220,660,Online,Chennai
+O00876,2025-06-15,C0170,Darjeeling First Flush,Single estate,1,650,650,Online,Kochi
+O00877,2025-06-15,C0145,Gift Hamper,Gifting,2,1800,3600,Store,Thrissur
+O00878,2025-06-15,C0053,Tulsi Ginger,Wellness,1,280,280,Online,Palakkad
+O00879,2025-06-15,C0039,Assam CTC,Everyday,2,220,440,Marketplace,Thrissur
+O00880,,W001,Darjeeling First Flush,Single estate,24,650,15600,Wholesale,Kochi
+O00881,2025-06-15,C0144,Masala Chai Blend,Blend,3,250,750,Online,Bengaluru
+O00882,2025-06-15,W004,Tulsi Ginger,Wellness,15,280,4200,Wholesale,Bengaluru
+O00883,2025-06-15,W024,Gift Hamper,Gifting,8,1800,14400,Wholesale,Kochi
+O00884,2025-06-16,C0463,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O00885,2025-06-16,C0135,Tulsi Ginger,Wellness,1,280,280,Store,Chennai
+O00886,2025-06-16,C0061,Masala Chai Blend,Blend,3,250,750,Store,Bengaluru
+O00887,2025-06-16,C0027,Gift Hamper,Gifting,1,1800,1800,Store,Bengaluru
+O00888,2025-06-16,C0363,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O00889,2025-06-17,C0055,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O00890,2025-06-17,C0035,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O00891,2025-06-17,C0274,Masala Chai Blend,Blend,1,250,250,Marketplace,Chennai
+O00892,2025-06-17,C0077,Green Tea Classic,Wellness,2,300,600,Online,Chennai
+O00893,2025-06-17,W014,Masala Chai Blend,Blend,20,250,5000,Wholesale,Thrissur
+O00894,2025-06-18,W023,Green Tea Classic,Wellness,30,300,9000,Wholesale,Kochi
+O00895,2025-06-18,C0484,Masala Chai Blend,Blend,1,250,250,Online,Thrissur
+O00896,2025-06-18,C0030,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O00897,2025-06-19,C0061,Masala Chai Blend,Blend,2,250,500,Store,Bengaluru
+O00898,2025-06-19,C0484,Assam CTC,Everyday,1,220,220,Store,Kochi
+O00899,2025-06-19,C0258,Assam CTC,Everyday,4,220,880,Marketplace,Thrissur
+O00900,2025-06-19,C0052,Masala Chai Blend,Blend,2,250,500,Store,Bengaluru
+O00901,2025-06-19,C0002,Assam CTC,Everyday,2,220,440,Online,Palakkad
+O00902,2025-06-19,C0054,Masala Chai Blend,Blend,3,250,750,Online,Chennai
+O00903,2025-06-19,C0015,Masala Chai Blend,Blend,1,250,250,Online,Chennai
+O00904,2025-06-20,C0173,Gift Hamper,Gifting,1,1800,1800,Store,Kochi
+O00905,2025-06-20,C0218,Masala Chai Blend,Blend,1,250,250,Store,Chennai
+O00906,2025-06-20,C0053,Tulsi Ginger,Wellness,1,280,280,Online,Palakkad
+O00907,2025-06-20,C0161,Masala Chai Blend,Blend,3,250,750,Store,Palakkad
+O00908,2025-06-20,C0328,Masala Chai Blend,Blend,2,250,500,Marketplace,Palakkad
+O00909,2025-06-20,C0055,Masala Chai Blend,Blend,3,250,750,Store,Kochi
+O00910,2025-06-21,C0448,Gift Hamper,Gifting,1,1800,1800,Store,Kozhikode
+O00911,2025-06-21,W016,Assam CTC,Everyday,10,220,2200,Wholesale,Chennai
+O00912,2025-06-21,C0262,Masala Chai Blend,Blend,2,250,500,Store,Kochi
+O00913,2025-06-21,C0463,Masala Chai Blend,Blend,3,250,750,Store,Kochi
+O00914,2025-06-21,C0035,Darjeeling First Flush,Single estate,2,650,1300,Store,Palakkad
+O00915,2025-06-21,C0047,Green Tea Classic,Wellness,1,300,300,Marketplace,Palakkad
+O00916,2025-06-21,W019,Green Tea Classic,Wellness,15,300,4500,Wholesale,Kozhikode
+O00917,2025-06-21,C0342,Masala Chai Blend,Blend,1,250,250,Online,Chennai
+O00918,2025-06-21,C0385,Tulsi Ginger,Wellness,3,280,840,Store,Chennai
+O00919,2025-06-22,C0038,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O00920,2025-06-22,C0002,Green Tea Classic,Wellness,2,300,600,Online,Palakkad
+O00921,2025-06-22,C0260,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O00922,2025-06-22,C0001,Assam CTC,Everyday,4,220,880,Store,Chennai
+O00923,2025-06-22,C0002,Green Tea Classic,Wellness,1,300,300,Online,Palakkad
+O00924,2025-06-22,C0432,Darjeeling First Flush,Single estate,2,650,1300,Store,Kochi
+O00925,2025-06-22,C0552,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O00926,2025-06-23,W002,Masala Chai Blend,Blend,24,250,6000,Wholesale,Bengaluru
+O00927,2025-06-23,W003,Masala Chai Blend,Blend,15,250,3750,Wholesale,Thrissur
+O00928,2025-06-23,C0314,Assam CTC,Everyday,3,220,660,Store,Bengaluru
+O00929,2025-06-23,C0142,Masala Chai Blend,Blend,2,250,500,Online,Palakkad
+O00930,2025-06-23,C0338,Green Tea Classic,Wellness,1,300,300,Online,Kozhikode
+O00931,2025-06-23,C0233,Darjeeling First Flush,Single estate,2,650,1300,Store,Thrissur
+O00932,2025-06-23,W003,Gift Hamper,Gifting,8,1800,14400,Wholesale,Thrissur
+O00933,2025-06-23,C0148,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O00934,2025-06-23,C0004,Gift Hamper,Gifting,1,1800,1800,Online,Kozhikode
+O00935,2025-06-24,C0303,Tulsi Ginger,Wellness,2,280,560,Marketplace,Chennai
+O00936,2025-06-24,W011,Tulsi Ginger,Wellness,24,280,6720,Wholesale,Chennai
+O00937,2025-06-24,C0258,Gift Hamper,Gifting,1,1800,1800,Marketplace,Thrissur
+O00938,2025-06-24,W023,Darjeeling First Flush,Single estate,20,650,13000,Wholesale,Kochi
+O00939,2025-06-25,C0055,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O00940,2025-06-25,C0230,Assam CTC,Everyday,4,220,880,Online,Bengaluru
+O00941,2025-06-25,C0402,Masala Chai Blend,Blend,2,250,500,Store,Kozhikode
+O00942,2025-06-25,C0002,Assam CTC,Everyday,2,220,440,Online,Palakkad
+O00943,2025-06-25,C0118,Masala Chai Blend,Blend,3,250,750,Online,Kozhikode
+O00944,2025-06-26,W009,Darjeeling First Flush,Single estate,15,650,9750,Wholesale,Thrissur
+O00945,2025-06-26,W006,Tulsi Ginger,Wellness,15,280,4200,Wholesale,Bengaluru
+O00946,2025-06-27,C0002,Green Tea Classic,Wellness,1,300,300,Online,Palakkad
+O00947,2025-06-27,C0121,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O00948,2025-06-27,C0332,Assam CTC,Everyday,4,220,880,Marketplace,Kozhikode
+O00949,2025-06-27,C0355,Masala Chai Blend,Blend,1,250,250,Online,Kochi
+O00950,2025-06-27,C0314,Masala Chai Blend,Blend,3,250,750,Store,Bengaluru
+O00951,2025-06-27,C0550,Assam CTC,Everyday,1,220,220,Store,Chennai
+O00952,2025-06-27,C0194,Masala Chai Blend,Blend,2,250,500,Store,Chennai
+O00953,2025-06-27,C0109,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O00954,2025-06-27,C0132,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O00955,2025-06-28,C0206,Masala Chai Blend,Blend,1,250,250,Store,Kochi
+O00956,2025-06-28,C0057,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O00957,2025-06-28,C0528,Tulsi Ginger,Wellness,1,280,280,Marketplace,Bengaluru
+O00958,2025-06-28,C0298,Masala Chai Blend,Blend,1,250,250,Store,Kochi
+O00959,2025-06-28,C0220,Assam CTC,Everyday,1,220,220,Online,Kozhikode
+O00960,2025-06-28,C0460,Assam CTC,Everyday,4,220,880,Store,Kozhikode
+O00961,2025-06-28,C0242,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O00962,2025-06-28,C0083,Green Tea Classic,Wellness,1,300,300,Online,Bengaluru
+O00963,2025-06-28,C0084,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O00964,2025-06-28,C0293,Darjeeling First Flush,Single estate,1,650,650,Store,Kochi
+O00965,2025-06-29,C0186,Tulsi Ginger,Wellness,1,280,280,Store,Kozhikode
+O00966,2025-06-29,C0322,Masala Chai Blend,Blend,2,250,500,Online,Kozhikode
+O00967,2025-06-29,C0086,Masala Chai Blend,Blend,2,250,500,Online,Bengaluru
+O00968,2025-06-29,C0043,Tulsi Ginger,Wellness,2,280,560,Online,Thrissur
+O00969,2025-06-29,C0282,Masala Chai Blend,Blend,1,250,250,Marketplace,Chennai
+O00970,2025-06-30,C0394,Masala Chai Blend,Blend,3,250,750,Store,Kochi
+O00971,2025-06-30,C0138,Gift Hamper,Gifting,1,1800,1800,Store,Kozhikode
+O00972,2025-06-30,C0067,Assam CTC,Everyday,2,220,440,Online,Thrissur
+O00973,2025-06-30,C0378,Masala Chai Blend,Blend,2,250,500,Store,Kozhikode
+O00974,2025-06-30,C0303,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Chennai
+O00975,2025-07-01,C0004,Tulsi Ginger,Wellness,2,280,560,Online,Kozhikode
+O00976,,C0556,Tulsi Ginger,Wellness,1,280,280,Store,Kozhikode
+O00977,2025-07-01,C0161,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O00978,2025-07-01,C0062,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O00979,2025-07-02,C0135,Masala Chai Signature,Blend,3,250,750,Store,Chennai
+O00980,2025-07-02,C0060,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O00981,2025-07-03,C0084,Green Tea Classic,Wellness,2,300,600,Store,Thrissur
+O00982,2025-07-03,W018,Green Tea Classic,Wellness,30,300,9000,Wholesale,Bengaluru
+O00983,2025-07-03,C0105,Green Tea Classic,Wellness,1,300,300,Online,Thrissur
+O00984,2025-07-03,C0295,Masala Chai Signature,Blend,3,250,750,Marketplace,Chennai
+O00985,2025-07-04,C0075,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O00986,2025-07-04,C0110,Masala Chai Signature,Blend,1,250,250,Marketplace,Kozhikode
+O00987,2025-07-04,C0184,Masala Chai Signature,Blend,1,250,250,Online,Chennai
+O00988,2025-07-04,C0528,Assam CTC,Everyday,1,220,220,Marketplace,Bengaluru
+O00989,2025-07-04,C0015,Assam CTC,Everyday,1,220,220,Online,Chennai
+O00990,2025-07-04,C0144,Masala Chai Signature,Blend,3,250,750,Online,Bengaluru
+O00991,2025-07-05,C0437,Masala Chai Signature,Blend,2,250,500,Marketplace,Kochi
+O00992,2025-07-05,C0079,Tulsi Ginger,Wellness,2,280,560,Marketplace,Kochi
+O00993,2025-07-05,C0541,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O00994,2025-07-05,C0402,Assam CTC,Everyday,1,220,220,Store,Kozhikode
+O00995,2025-07-05,C0022,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O00996,2025-07-06,C0477,Assam CTC,Everyday,4,220,880,Store,Kochi
+O00997,2025-07-06,C0008,Assam CTC,Everyday,1,220,220,Online,Bengaluru
+O00998,2025-07-07,C0030,Gift Hamper,Gifting,2,1800,3600,Store,Palakkad
+O00999,2025-07-07,C0260,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O01000,2025-07-07,C0132,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01001,2025-07-07,C0334,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O01002,2025-07-07,W029,Masala Chai Signature,Blend,24,250,6000,Wholesale,Kochi
+O01003,2025-07-07,C0097,Green Tea Classic,Wellness,1,300,300,Online,Chennai
+O01004,2025-07-07,C0258,Tulsi Ginger,Wellness,3,280,840,Marketplace,Thrissur
+O01005,2025-07-07,C0052,Masala Chai Signature,Blend,2,250,500,Store,Bengaluru
+O01006,2025-07-07,C0307,Gift Hamper,Gifting,1,1800,1800,Online,Palakkad
+O01007,2025-07-08,C0219,Green Tea Classic,Wellness,3,300,900,Online,Kochi
+O01008,2025-07-08,W007,Green Tea Classic,Wellness,30,300,9000,Wholesale,Kozhikode
+O01009,2025-07-08,C0484,Masala Chai Signature,Blend,2,250,500,Store,Kochi
+O01010,2025-07-08,C0187,Masala Chai Signature,Blend,3,250,750,Online,Chennai
+O01011,2025-07-09,C0226,Masala Chai Signature,Blend,2,250,500,Store,Thrissur
+O01012,2025-07-10,C0513,Masala Chai Signature,Blend,3,250,750,Store,Thrissur
+O01013,2025-07-10,C0250,Masala Chai Signature,Blend,2,250,500,Marketplace,Kozhikode
+O01014,2025-07-10,C0211,Green Tea Classic,Wellness,3,300,900,Online,Thrissur
+O01015,2025-07-10,C0048,Masala Chai Signature,Blend,3,250,750,Store,Chennai
+O01016,2025-07-11,C0018,Assam CTC,Everyday,1,220,220,Store,Thrissur
+O01017,2025-07-11,C0332,Assam CTC,Everyday,2,220,440,Online,Kozhikode
+O01018,2025-07-11,W033,Masala Chai Signature,Blend,30,250,7500,Wholesale,Palakkad
+O01019,2025-07-11,W003,Masala Chai Signature,Blend,10,250,2500,Wholesale,Thrissur
+O01020,2025-07-12,C0037,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O01021,2025-07-12,C0187,Tulsi Ginger,Wellness,1,280,280,Marketplace,Chennai
+O01022,2025-07-12,C0099,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O01023,2025-07-12,C0019,Gift Hamper,Gifting,1,1800,1800,Store,Kochi
+O01024,2025-07-12,C0001,Gift Hamper,Gifting,1,1800,1800,Store,Chennai
+O01025,2025-07-13,C0210,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Kozhikode
+O01026,2025-07-13,C0052,Masala Chai Signature,Blend,1,250,250,Store,Bengaluru
+O01027,2025-07-13,C0287,Masala Chai Signature,Blend,1,250,250,Marketplace,Palakkad
+O01028,2025-07-13,C0080,Gift Hamper,Gifting,1,1800,1800,Online,Thrissur
+O01029,2025-07-13,C0530,Tulsi Ginger,Wellness,2,280,560,Marketplace,Thrissur
+O01030,2025-07-13,C0154,Darjeeling First Flush,Single estate,2,650,1300,Store,Palakkad
+O01031,2025-07-13,C0058,Masala Chai Signature,Blend,3,250,750,Store,Chennai
+O01032,2025-07-13,W004,Masala Chai Signature,Blend,30,250,7500,Wholesale,Bengaluru
+O01033,2025-07-14,C0530,Masala Chai Signature,Blend,1,250,250,Marketplace,Thrissur
+O01034,2025-07-14,C0148,Masala Chai Signature,Blend,1,250,250,Store,Palakkad
+O01035,2025-07-14,C0220,Darjeeling First Flush,Single estate,1,650,650,Online,Kozhikode
+O01036,2025-07-14,C0332,Tulsi Ginger,Wellness,2,280,560,Online,Kozhikode
+O01037,2025-07-15,C0002,Assam CTC,Everyday,2,220,440,Online,Palakkad
+O01038,2025-07-15,C0401,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01039,2025-07-15,C0063,Tulsi Ginger,Wellness,1,280,280,Store,Kochi
+O01040,2025-07-16,C0062,Tulsi Ginger,Wellness,3,280,840,Store,Thrissur
+O01041,2025-07-16,C0403,Assam CTC,Everyday,4,220,880,Store,Thrissur
+O01042,2025-07-16,C0022,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O01043,2025-07-16,C0522,Green Tea Classic,Wellness,2,300,600,Store,Chennai
+O01044,2025-07-17,C0057,Assam CTC,Everyday,4,220,880,Store,Palakkad
+O01045,2025-07-17,C0147,Masala Chai Signature,Blend,2,250,500,Store,Kozhikode
+O01046,2025-07-17,C0295,Green Tea Classic,Wellness,2,300,600,Marketplace,Chennai
+O01047,2025-07-17,C0328,Assam CTC,Everyday,4,220,880,Marketplace,Palakkad
+O01048,2025-07-17,C0073,Assam CTC,Everyday,2,220,440,Online,Bengaluru
+O01049,2025-07-18,C0545,Assam CTC,Everyday,3,220,660,Online,Kozhikode
+O01050,2025-07-18,C0165,Tulsi Ginger,Wellness,2,280,560,Store,Chennai
+O01051,2025-07-18,C0132,Green Tea Classic,Wellness,3,300,900,Store,Palakkad
+O01052,2025-07-18,C0138,Masala Chai Signature,Blend,1,250,250,Store,Kozhikode
+O01053,2025-07-18,C0067,Assam CTC,Everyday,3,220,660,Online,Thrissur
+O01054,2025-07-19,C0074,Masala Chai Signature,Blend,2,250,500,Online,Bengaluru
+O01055,2025-07-19,C0165,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O01056,2025-07-19,W015,Masala Chai Signature,Blend,30,250,7500,Wholesale,Kochi
+O01057,2025-07-19,W009,Assam CTC,Everyday,24,220,5280,Wholesale,Thrissur
+O01058,2025-07-19,W025,Green Tea Classic,Wellness,20,300,6000,Wholesale,Palakkad
+O01059,2025-07-19,C0054,Green Tea Classic,Wellness,2,300,600,Online,Chennai
+O01060,2025-07-19,C0038,Green Tea Classic,Wellness,3,300,900,Store,Thrissur
+O01061,2025-07-19,C0550,Masala Chai Signature,Blend,1,250,250,Store,Chennai
+O01062,2025-07-19,C0080,Assam CTC,Everyday,2,220,440,Online,Thrissur
+O01063,2025-07-19,C0138,Masala Chai Signature,Blend,1,250,250,Store,Kozhikode
+O01064,2025-07-20,C0547,Assam CTC,Everyday,4,220,880,Marketplace,Palakkad
+O01065,2025-07-20,C0187,Assam CTC,Everyday,4,220,880,Marketplace,Chennai
+O01066,2025-07-20,W013,Masala Chai Signature,Blend,24,250,6000,Wholesale,Bengaluru
+O01067,2025-07-20,W001,Masala Chai Signature,Blend,10,250,2500,Wholesale,Kochi
+O01068,2025-07-20,C0030,Masala Chai Signature,Blend,2,250,500,Store,Palakkad
+O01069,2025-07-20,C0478,Masala Chai Signature,Blend,2,250,500,Marketplace,Palakkad
+O01070,2025-07-20,C0401,Assam CTC,Everyday,2,220,440,Online,Palakkad
+O01071,2025-07-20,C0273,Masala Chai Signature,Blend,2,250,500,Store,Thrissur
+O01072,2025-07-21,C0147,Gift Hamper,Gifting,1,1800,1800,Online,Kozhikode
+O01073,2025-07-21,C0139,Assam CTC,Everyday,2,220,440,Store,Kochi
+O01074,2025-07-21,C0012,Assam CTC,Everyday,2,220,440,Store,Kozhikode
+O01075,2025-07-21,C0087,Masala Chai Signature,Blend,3,250,750,Store,Bengaluru
+O01076,2025-07-21,C0043,Assam CTC,Everyday,1,220,220,Online,Thrissur
+O01077,2025-07-21,C0081,Assam CTC,Everyday,4,220,880,Store,Thrissur
+O01078,2025-07-22,C0211,Green Tea Classic,Wellness,3,300,900,Store,Thrissur
+O01079,2025-07-22,C0144,Masala Chai Signature,Blend,1,250,250,Online,Bengaluru
+O01080,2025-07-23,C0011,Assam CTC,Everyday,1,220,220,Store,Kozhikode
+O01081,2025-07-23,C0290,Assam CTC,Everyday,1,220,220,Online,Kochi
+O01082,2025-07-23,C0219,Masala Chai Signature,Blend,2,250,500,Online,Kochi
+O01083,2025-07-23,C0108,Green Tea Classic,Wellness,3,300,900,Store,Thrissur
+O01084,2025-07-24,C0059,Masala Chai Signature,Blend,2,250,500,Store,Bengaluru
+O01085,2025-07-24,C0015,Green Tea Classic,Wellness,2,300,600,Online,Chennai
+O01086,2025-07-24,C0074,Assam CTC,Everyday,1,220,220,Store,Bengaluru
+O01087,2025-07-25,W014,Darjeeling First Flush,Single estate,15,650,9750,Wholesale,Thrissur
+O01088,2025-07-25,C0036,Darjeeling First Flush,Single estate,1,650,650,Store,Thrissur
+O01089,2025-07-26,C0371,Assam CTC,Everyday,3,220,660,Online,Bengaluru
+O01090,2025-07-26,C0008,Masala Chai Signature,Blend,2,250,500,Online,Bengaluru
+O01091,2025-07-26,C0004,Tulsi Ginger,Wellness,1,280,280,Online,Kozhikode
+O01092,2025-07-26,C0072,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Bengaluru
+O01093,2025-07-27,W018,Assam CTC,Everyday,24,220,5280,Wholesale,Bengaluru
+O01094,2025-07-27,C0299,Masala Chai Signature,Blend,2,250,500,Marketplace,Kochi
+O01095,,C0434,Darjeeling First Flush,Single estate,2,650,1300,Store,Bengaluru
+O01096,2025-07-27,C0166,Green Tea Classic,Wellness,3,300,900,Store,Kozhikode
+O01097,2025-07-28,C0110,Assam CTC,Everyday,1,220,220,Marketplace,Kozhikode
+O01098,2025-07-28,W026,Assam CTC,Everyday,10,220,2200,Wholesale,Kozhikode
+O01099,2025-07-28,C0211,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O01100,2025-07-29,C0147,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O01101,2025-07-29,C0038,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O01102,2025-07-29,C0550,Tulsi Ginger,Wellness,1,280,280,Store,Chennai
+O01103,2025-07-29,C0223,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Kozhikode
+O01104,2025-07-30,C0401,Masala Chai Signature,Blend,2,250,500,Online,Palakkad
+O01105,2025-07-30,C0224,Masala Chai Signature,Blend,2,250,500,Store,Thrissur
+O01106,2025-07-30,C0170,Assam CTC,Everyday,1,220,220,Store,Kochi
+O01107,2025-07-31,C0219,Darjeeling First Flush,Single estate,1,650,650,Online,Kochi
+O01108,2025-07-31,C0194,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Chennai
+O01109,2025-08-01,C0122,Masala Chai Signature,Blend,1,250,250,Store,Kozhikode
+O01110,2025-08-01,W022,Tulsi Ginger,Wellness,15,280,4200,Wholesale,Bengaluru
+O01111,2025-08-01,C0282,Masala Chai Signature,Blend,1,250,250,Marketplace,Thrissur
+O01112,2025-08-01,C0224,Darjeeling First Flush,Single estate,2,650,1300,Store,Thrissur
+O01113,2025-08-02,C0173,Tulsi Ginger,Wellness,2,280,560,Marketplace,Kochi
+O01114,2025-08-02,C0111,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O01115,2025-08-02,C0053,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O01116,2025-08-02,C0047,Assam CTC,Everyday,3,220,660,Marketplace,Palakkad
+O01117,2025-08-02,C0171,Tulsi Ginger,Wellness,2,280,560,Marketplace,Chennai
+O01118,2025-08-02,W010,Gift Hamper,Gifting,6,1800,10800,Wholesale,Kozhikode
+O01119,2025-08-02,C0538,Green Tea Classic,Wellness,1,300,300,Online,Palakkad
+O01120,2025-08-03,C0057,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01121,2025-08-03,C0048,Masala Chai Signature,Blend,1,250,250,Store,Chennai
+O01122,2025-08-03,C0448,Tulsi Ginger,Wellness,1,280,280,Store,Kozhikode
+O01123,2025-08-03,W013,Assam CTC,Everyday,20,220,4400,Wholesale,Bengaluru
+O01124,2025-08-03,C0123,Masala Chai Signature,Blend,2,250,500,Online,Thrissur
+O01125,2025-08-03,C0185,Assam CTC,Everyday,1,220,220,Store,Thrissur
+O01126,,C0030,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01127,2025-08-04,W009,Assam CTC,Everyday,12,220,2640,Wholesale,Thrissur
+O01128,2025-08-05,C0200,Assam CTC,Everyday,2,220,440,Store,Kochi
+O01129,2025-08-05,C0072,Masala Chai Signature,Blend,2,250,500,Marketplace,Bengaluru
+O01130,2025-08-05,C0084,Masala Chai Signature,Blend,2,250,500,Store,Thrissur
+O01131,2025-08-05,W003,Masala Chai Signature,Blend,15,250,3750,Wholesale,Thrissur
+O01132,2025-08-06,W003,Green Tea Classic,Wellness,10,300,3000,Wholesale,Thrissur
+O01133,2025-08-06,C0012,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O01134,,C0135,Green Tea Classic,Wellness,2,300,600,Store,Chennai
+O01135,2025-08-06,C0277,Green Tea Classic,Wellness,1,300,300,Marketplace,Kozhikode
+O01136,2025-08-07,C0387,Green Tea Classic,Wellness,1,300,300,Online,Kozhikode
+O01137,2025-08-07,W007,Tulsi Ginger,Wellness,12,280,3360,Wholesale,Kozhikode
+O01138,2025-08-07,C0175,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O01139,2025-08-07,C0019,Darjeeling First Flush,Single estate,1,650,650,Store,Kochi
+O01140,2025-08-07,C0135,Tulsi Ginger,Wellness,1,280,280,Marketplace,Chennai
+O01141,2025-08-07,C0372,Gift Hamper,Gifting,2,1800,3600,Store,Kozhikode
+O01142,2025-08-08,C0034,Tulsi Ginger,Wellness,2,280,560,Marketplace,Thrissur
+O01143,2025-08-08,C0134,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01144,2025-08-08,C0224,Darjeeling First Flush,Single estate,1,650,650,Store,Thrissur
+O01145,2025-08-08,C0032,Assam CTC,Everyday,2,220,440,Online,Chennai
+O01146,2025-08-09,C0057,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O01147,2025-08-09,C0080,Assam CTC,Everyday,1,220,220,Online,Thrissur
+O01148,2025-08-09,C0371,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Bengaluru
+O01149,2025-08-09,C0015,Assam CTC,Everyday,2,220,440,Online,Chennai
+O01150,2025-08-09,C0277,Masala Chai Signature,Blend,1,250,250,Online,Thrissur
+O01151,2025-08-09,W003,Assam CTC,Everyday,12,220,2640,Wholesale,Thrissur
+O01152,2025-08-09,C0087,Assam CTC,Everyday,4,220,880,Store,Bengaluru
+O01153,2025-08-09,C0079,Tulsi Ginger,Wellness,2,280,560,Marketplace,Kochi
+O01154,2025-08-10,C0099,Masala Chai Signature,Blend,2,250,500,Store,Thrissur
+O01155,2025-08-10,C0099,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O01156,2025-08-10,W026,Tulsi Ginger,Wellness,15,280,4200,Wholesale,Kozhikode
+O01157,2025-08-10,C0536,Masala Chai Signature,Blend,2,250,500,Marketplace,Palakkad
+O01158,2025-08-10,C0057,Masala Chai Signature,Blend,1,250,250,Store,Palakkad
+O01159,2025-08-10,C0215,Masala Chai Signature,Blend,2,250,500,Store,Chennai
+O01160,2025-08-11,C0539,Masala Chai Signature,Blend,1,250,250,Store,Palakkad
+O01161,2025-08-11,C0477,Tulsi Ginger,Wellness,1,280,280,Online,Kochi
+O01162,2025-08-11,C0104,Gift Hamper,Gifting,1,1800,1800,Store,Bengaluru
+O01163,2025-08-11,C0001,Green Tea Classic,Wellness,2,300,600,Store,Chennai
+O01164,2025-08-12,C0047,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Palakkad
+O01165,2025-08-12,C0106,Darjeeling First Flush,Single estate,2,650,1300,Online,Kozhikode
+O01166,2025-08-12,C0459,Gift Hamper,Gifting,1,1800,1800,Online,Thrissur
+O01167,2025-08-12,C0074,Green Tea Classic,Wellness,2,300,600,Online,Bengaluru
+O01168,2025-08-12,C0018,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O01169,2025-08-13,C0455,Masala Chai Signature,Blend,3,250,750,Store,Thrissur
+O01170,2025-08-13,C0088,Gift Hamper,Gifting,1,1800,1800,Online,Thrissur
+O01171,2025-08-13,C0082,Assam CTC,Everyday,1,220,220,Online,Bengaluru
+O01172,2025-08-13,C0520,Masala Chai Signature,Blend,1,250,250,Online,Chennai
+O01173,2025-08-13,C0285,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O01174,2025-08-13,C0054,Masala Chai Signature,Blend,2,250,500,Store,Chennai
+O01175,2025-08-14,C0447,Masala Chai Signature,Blend,1,250,250,Online,Thrissur
+O01176,2025-08-14,C0367,Darjeeling First Flush,Single estate,2,650,1300,Online,Kozhikode
+O01177,2025-08-14,W006,Masala Chai Signature,Blend,15,250,3750,Wholesale,Bengaluru
+O01178,2025-08-14,C0135,Tulsi Ginger,Wellness,2,280,560,Marketplace,Chennai
+O01179,2025-08-15,C0186,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Kozhikode
+O01180,2025-08-15,C0322,Masala Chai Signature,Blend,1,250,250,Online,Kozhikode
+O01181,2025-08-16,W011,Masala Chai Signature,Blend,12,250,3000,Wholesale,Chennai
+O01182,2025-08-16,C0161,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O01183,2025-08-16,C0299,Masala Chai Signature,Blend,1,250,250,Marketplace,Kochi
+O01184,2025-08-16,C0432,Gift Hamper,Gifting,2,1800,3600,Store,Kochi
+O01185,2025-08-16,C0224,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O01186,2025-08-16,C0415,Gift Hamper,Gifting,1,1800,1800,Online,Kochi
+O01187,2025-08-17,C0016,Gift Hamper,Gifting,1,1800,1800,Store,Kochi
+O01188,2025-08-17,C0268,Masala Chai Signature,Blend,1,250,250,Online,Bengaluru
+O01189,2025-08-17,C0074,Masala Chai Signature,Blend,1,250,250,Online,Bengaluru
+O01190,2025-08-17,W001,Green Tea Classic,Wellness,15,300,4500,Wholesale,Kochi
+O01191,2025-08-17,C0431,Gift Hamper,Gifting,1,1800,1800,Store,Bengaluru
+O01192,2025-08-17,C0055,Darjeeling First Flush,Single estate,2,650,1300,Store,Kochi
+O01193,2025-08-17,C0087,Masala Chai Signature,Blend,1,250,250,Online,Bengaluru
+O01194,2025-08-17,C0186,Assam CTC,Everyday,1,220,220,Marketplace,Kozhikode
+O01195,2025-08-17,C0314,Masala Chai Signature,Blend,2,250,500,Marketplace,Bengaluru
+O01196,2025-08-18,C0259,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Bengaluru
+O01197,2025-08-18,C0029,Green Tea Classic,Wellness,1,300,300,Store,Bengaluru
+O01198,2025-08-18,C0113,Tulsi Ginger,Wellness,2,280,560,Store,Kozhikode
+O01199,2025-08-18,C0012,Tulsi Ginger,Wellness,3,280,840,Store,Kozhikode
+O01200,2025-08-18,C0483,Assam CTC,Everyday,4,220,880,Store,Chennai
+O01201,2025-08-18,C0027,Darjeeling First Flush,Single estate,1,650,650,Store,Bengaluru
+O01202,2025-08-18,C0029,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O01203,2025-08-18,C0532,Masala Chai Signature,Blend,2,250,500,Store,Palakkad
+O01204,2025-08-19,W004,Green Tea Classic,Wellness,20,300,6000,Wholesale,Bengaluru
+O01205,2025-08-19,C0314,Gift Hamper,Gifting,2,1800,3600,Store,Bengaluru
+O01206,2025-08-19,C0279,Green Tea Classic,Wellness,1,300,300,Store,Bengaluru
+O01207,2025-08-19,C0233,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O01208,2025-08-19,C0086,Masala Chai Signature,Blend,3,250,750,Online,Bengaluru
+O01209,2025-08-19,C0171,Masala Chai Signature,Blend,2,250,500,Marketplace,Chennai
+O01210,2025-08-20,C0187,Masala Chai Signature,Blend,1,250,250,Marketplace,Chennai
+O01211,2025-08-20,C0016,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O01212,2025-08-20,C0399,Assam CTC,Everyday,1,220,220,Online,Thrissur
+O01213,2025-08-21,C0035,Assam CTC,Everyday,4,220,880,Store,Palakkad
+O01214,2025-08-21,C0011,Darjeeling First Flush,Single estate,2,650,1300,Store,Kozhikode
+O01215,2025-08-21,W001,Masala Chai Signature,Blend,30,250,7500,Wholesale,Kochi
+O01216,2025-08-21,C0135,Tulsi Ginger,Wellness,1,280,280,Marketplace,Chennai
+O01217,2025-08-21,C0038,Green Tea Classic,Wellness,2,300,600,Store,Bengaluru
+O01218,2025-08-22,C0069,Masala Chai Signature,Blend,2,250,500,Store,Kozhikode
+O01219,2025-08-22,C0386,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O01220,2025-08-22,C0210,Masala Chai Signature,Blend,1,250,250,Marketplace,Kozhikode
+O01221,2025-08-22,C0331,Masala Chai Signature,Blend,2,250,500,Online,Chennai
+O01222,2025-08-23,C0002,Green Tea Classic,Wellness,1,300,300,Online,Palakkad
+O01223,2025-08-23,W011,Green Tea Classic,Wellness,24,300,7200,Wholesale,Chennai
+O01224,2025-08-23,C0200,Tulsi Ginger,Wellness,3,280,840,Store,Kochi
+O01225,2025-08-23,C0494,Assam CTC,Everyday,2,220,440,Marketplace,Chennai
+O01226,2025-08-23,C0190,Masala Chai Signature,Blend,1,250,250,Store,Palakkad
+O01227,2025-08-23,C0517,Masala Chai Signature,Blend,1,250,250,Online,Kozhikode
+O01228,2025-08-24,C0030,Green Tea Classic,Wellness,2,300,600,Online,Palakkad
+O01229,2025-08-24,C0210,Masala Chai Signature,Blend,1,250,250,Marketplace,Kozhikode
+O01230,2025-08-24,C0149,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O01231,2025-08-25,C0330,Masala Chai Signature,Blend,2,250,500,Store,Bengaluru
+O01232,2025-08-25,C0034,Green Tea Classic,Wellness,3,300,900,Marketplace,Thrissur
+O01233,2025-08-25,C0088,Tulsi Ginger,Wellness,1,280,280,Online,Thrissur
+O01234,2025-08-25,C0236,Green Tea Classic,Wellness,2,300,600,Online,Kozhikode
+O01235,2025-08-25,C0287,Masala Chai Signature,Blend,3,250,750,Marketplace,Palakkad
+O01236,2025-08-25,W002,Masala Chai Signature,Blend,20,250,5000,Wholesale,Bengaluru
+O01237,2025-08-26,C0230,Darjeeling First Flush,Single estate,2,650,1300,Online,Bengaluru
+O01238,2025-08-26,W017,Masala Chai Signature,Blend,10,250,2500,Wholesale,Kochi
+O01239,2025-08-26,C0244,Assam CTC,Everyday,2,220,440,Online,Kozhikode
+O01240,2025-08-27,C0430,Masala Chai Signature,Blend,2,250,500,Marketplace,Palakkad
+O01241,2025-08-27,C0322,Assam CTC,Everyday,4,220,880,Online,Kozhikode
+O01242,2025-08-27,W004,Masala Chai Signature,Blend,24,250,6000,Wholesale,Bengaluru
+O01243,2025-08-27,C0431,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O01244,2025-08-27,C0223,Assam CTC,Everyday,2,220,440,Online,Kozhikode
+O01245,2025-08-27,C0018,Assam CTC,Everyday,3,220,660,Store,Thrissur
+O01246,2025-08-27,W004,Assam CTC,Everyday,15,220,3300,Wholesale,Bengaluru
+O01247,2025-08-29,C0494,Green Tea Classic,Wellness,2,300,600,Marketplace,Chennai
+O01248,2025-08-29,C0064,Tulsi Ginger,Wellness,2,280,560,Marketplace,Thrissur
+O01249,2025-08-29,C0072,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Bengaluru
+O01250,2025-08-29,C0295,Assam CTC,Everyday,3,220,660,Marketplace,Chennai
+O01251,2025-08-29,C0345,Darjeeling First Flush,Single estate,1,650,650,Store,Kochi
+O01252,2025-08-30,C0294,Assam CTC,Everyday,1,220,220,Store,Kozhikode
+O01253,2025-08-30,W026,Green Tea Classic,Wellness,10,300,3000,Wholesale,Kozhikode
+O01254,2025-08-30,C0077,Assam CTC,Everyday,3,220,660,Store,Chennai
+O01255,2025-08-30,C0179,Green Tea Classic,Wellness,2,300,600,Online,Chennai
+O01256,2025-08-31,C0011,Masala Chai Signature,Blend,2,250,500,Online,Kozhikode
+O01257,2025-08-31,C0004,Tulsi Ginger,Wellness,2,280,560,Online,Kozhikode
+O01258,2025-08-31,C0206,Assam CTC,Everyday,4,220,880,Store,Kochi
+O01259,2025-08-31,C0063,Masala Chai Signature,Blend,1,250,250,Store,Kochi
+O01260,2025-08-31,C0474,Assam CTC,Everyday,3,220,660,Store,Chennai
+O01261,2025-08-31,W019,Masala Chai Signature,Blend,15,250,3750,Wholesale,Kozhikode
+O01262,2025-08-31,C0077,Masala Chai Signature,Blend,3,250,750,Store,Chennai
+O01263,2025-08-31,C0243,Assam CTC,Everyday,1,220,220,Online,Bengaluru
+O01264,2025-08-31,C0458,Masala Chai Signature,Blend,1,250,250,Store,Thrissur
+O01265,2025-08-31,C0437,Assam CTC,Everyday,4,220,880,Marketplace,Kochi
+O01266,2025-09-01,W003,Masala Chai Signature,Blend,20,250,5000,Wholesale,Thrissur
+O01267,2025-09-01,C0277,Tulsi Ginger,Wellness,1,280,280,Online,Kozhikode
+O01268,2025-09-01,C0183,Assam CTC,Everyday,2,220,440,Marketplace,Palakkad
+O01269,2025-09-01,C0342,Darjeeling First Flush,Single estate,1,650,650,Online,Chennai
+O01270,2025-09-01,C0040,Assam CTC,Everyday,3,220,660,Marketplace,Palakkad
+O01271,2025-09-01,C0236,Green Tea Classic,Wellness,3,300,900,Store,Kozhikode
+O01272,2025-09-02,C0165,Tulsi Ginger,Wellness,2,280,560,Store,Chennai
+O01273,2025-09-02,C0019,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O01274,2025-09-02,W012,Darjeeling First Flush,Single estate,10,650,6500,Wholesale,Kochi
+O01275,2025-09-02,C0521,Masala Chai Signature,Blend,1,250,250,Store,Bengaluru
+O01276,2025-09-02,C0447,Masala Chai Signature,Blend,2,250,500,Online,Thrissur
+O01277,2025-09-02,C0534,Green Tea Classic,Wellness,3,300,900,Online,Bengaluru
+O01278,2025-09-02,C0139,Assam CTC,Everyday,3,220,660,Store,Kochi
+O01279,2025-09-02,C0079,Assam CTC,Everyday,2,220,440,Marketplace,Kochi
+O01280,2025-09-03,C0004,Masala Chai Signature,Blend,2,250,500,Online,Chennai
+O01281,2025-09-03,C0019,Gift Hamper,Gifting,1,1800,1800,Store,Thrissur
+O01282,2025-09-03,C0012,Masala Chai Signature,Blend,3,250,750,Store,Kozhikode
+O01283,2025-09-04,C0123,Tulsi Ginger,Wellness,3,280,840,Online,Thrissur
+O01284,2025-09-04,C0077,Darjeeling First Flush,Single estate,1,650,650,Store,Chennai
+O01285,2025-09-04,W007,Green Tea Classic,Wellness,10,300,3000,Wholesale,Kozhikode
+O01286,2025-09-04,C0399,Masala Chai Signature,Blend,2,250,500,Store,Thrissur
+O01287,2025-09-05,C0011,Assam CTC,Everyday,3,220,660,Online,Kozhikode
+O01288,2025-09-05,C0034,Masala Chai Signature,Blend,3,250,750,Marketplace,Thrissur
+O01289,2025-09-05,C0494,Masala Chai Signature,Blend,1,250,250,Marketplace,Chennai
+O01290,2025-09-05,C0015,Masala Chai Signature,Blend,1,250,250,Online,Chennai
+O01291,2025-09-05,C0037,Masala Chai Signature,Blend,1,250,250,Store,Bengaluru
+O01292,2025-09-06,W001,Assam CTC,Everyday,10,220,2200,Wholesale,Kochi
+O01293,2025-09-06,C0171,Masala Chai Signature,Blend,1,250,250,Marketplace,Chennai
+O01294,2025-09-06,C0121,Masala Chai Signature,Blend,1,250,250,Store,Thrissur
+O01295,2025-09-06,C0420,Gift Hamper,Gifting,2,1800,3600,Marketplace,Kochi
+O01296,2025-09-07,C0054,Masala Chai Signature,Blend,3,250,750,Store,Chennai
+O01297,2025-09-07,C0135,Masala Chai Signature,Blend,3,250,750,Store,Chennai
+O01298,2025-09-07,C0415,Masala Chai Signature,Blend,2,250,500,Online,Kochi
+O01299,2025-09-07,C0172,Assam CTC,Everyday,3,220,660,Online,Bengaluru
+O01300,2025-09-07,C0110,Masala Chai Signature,Blend,1,250,250,Marketplace,Kozhikode
+O01301,2025-09-07,C0230,Darjeeling First Flush,Single estate,1,650,650,Store,Bengaluru
+O01302,2025-09-07,C0165,Masala Chai Signature,Blend,2,250,500,Store,Chennai
+O01303,2025-09-08,C0075,Tulsi Ginger,Wellness,1,280,280,Store,Thrissur
+O01304,2025-09-08,C0303,Tulsi Ginger,Wellness,3,280,840,Online,Chennai
+O01305,2025-09-08,C0079,Assam CTC,Everyday,1,220,220,Marketplace,Kochi
+O01306,2025-09-08,C0165,Green Tea Classic,Wellness,3,300,900,Store,Chennai
+O01307,2025-09-09,C0132,Assam CTC,Everyday,4,220,880,Store,Palakkad
+O01308,2025-09-09,W002,Assam CTC,Everyday,24,220,5280,Wholesale,Bengaluru
+O01309,2025-09-09,W040,Tulsi Ginger,Wellness,24,280,6720,Wholesale,Bengaluru
+O01310,2025-09-10,C0217,Assam CTC,Everyday,2,220,440,Store,Kochi
+O01311,2025-09-10,C0477,Green Tea Classic,Wellness,2,300,600,Store,Kochi
+O01312,2025-09-10,C0243,Assam CTC,Everyday,2,220,440,Online,Bengaluru
+O01313,2025-09-11,C0077,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O01314,2025-09-11,C0223,Assam CTC,Everyday,2,220,440,Online,Kozhikode
+O01315,2025-09-11,C0536,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Palakkad
+O01316,2025-09-11,C0200,Assam CTC,Everyday,2,220,440,Store,Kochi
+O01317,2025-09-12,C0079,Green Tea Classic,Wellness,2,300,600,Marketplace,Kochi
+O01318,,C0173,Assam CTC,Everyday,2,220,440,Store,Kochi
+O01319,2025-09-13,W023,Masala Chai Signature,Blend,10,250,2500,Wholesale,Kochi
+O01320,2025-09-13,C0244,Tulsi Ginger,Wellness,2,280,560,Online,Kozhikode
+O01321,2025-09-13,C0054,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O01322,2025-09-13,C0235,Green Tea Classic,Wellness,1,300,300,Online,Thrissur
+O01323,2025-09-13,C0054,Masala Chai Signature,Blend,2,250,500,Store,Chennai
+O01324,2025-09-13,C0015,Tulsi Ginger,Wellness,2,280,560,Online,Chennai
+O01325,2025-09-13,C0058,Assam CTC,Everyday,3,220,660,Store,Chennai
+O01326,2025-09-14,C0557,Assam CTC,Everyday,3,220,660,Store,Palakkad
+O01327,2025-09-14,C0029,Gift Hamper,Gifting,1,1800,1800,Store,Bengaluru
+O01328,2025-09-14,C0103,Masala Chai Signature,Blend,3,250,750,Store,Bengaluru
+O01329,2025-09-14,C0135,Masala Chai Signature,Blend,1,250,250,Store,Chennai
+O01330,2025-09-14,C0176,Assam CTC,Everyday,2,220,440,Online,Thrissur
+O01331,2025-09-15,C0187,Green Tea Classic,Wellness,3,300,900,Online,Chennai
+O01332,2025-09-15,C0503,Masala Chai Signature,Blend,1,250,250,Store,Bengaluru
+O01333,2025-09-15,C0021,Green Tea Classic,Wellness,3,300,900,Marketplace,Thrissur
+O01334,2025-09-16,W013,Tulsi Ginger,Wellness,30,280,8400,Wholesale,Bengaluru
+O01335,2025-09-16,C0285,Tulsi Ginger,Wellness,1,280,280,Store,Palakkad
+O01336,2025-09-16,C0231,Darjeeling First Flush,Single estate,1,650,650,Store,Chennai
+O01337,2025-09-17,C0256,Assam CTC,Everyday,2,220,440,Online,Kozhikode
+O01338,2025-09-17,C0023,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O01339,2025-09-17,C0320,Green Tea Classic,Wellness,1,300,300,Store,Kozhikode
+O01340,2025-09-17,C0192,Assam CTC,Everyday,1,220,220,Store,Kochi
+O01341,2025-09-17,C0165,Masala Chai Signature,Blend,3,250,750,Store,Chennai
+O01342,2025-09-18,C0111,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01343,2025-09-18,C0075,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O01344,2025-09-18,C0459,Masala Chai Signature,Blend,2,250,500,Online,Thrissur
+O01345,2025-09-19,C0342,Masala Chai Signature,Blend,1,250,250,Online,Chennai
+O01346,2025-09-19,W002,Tulsi Ginger,Wellness,20,280,5600,Wholesale,Bengaluru
+O01347,2025-09-19,C0030,Green Tea Classic,Wellness,1,300,300,Online,Palakkad
+O01348,2025-09-19,C0168,Green Tea Classic,Wellness,2,300,600,Marketplace,Kochi
+O01349,2025-09-19,C0083,Masala Chai Signature,Blend,2,250,500,Online,Bengaluru
+O01350,2025-09-20,C0332,Gift Hamper,Gifting,2,1800,3600,Marketplace,Kozhikode
+O01351,2025-09-20,W007,Masala Chai Signature,Blend,24,250,6000,Wholesale,Kozhikode
+O01352,2025-09-20,C0188,Masala Chai Signature,Blend,2,250,500,Store,Thrissur
+O01353,2025-09-20,C0057,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01354,2025-09-20,C0031,Masala Chai Signature,Blend,2,250,500,Online,Kochi
+O01355,2025-09-21,C0194,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Chennai
+O01356,2025-09-21,C0230,Masala Chai Signature,Blend,2,250,500,Online,Bengaluru
+O01357,2025-09-21,C0063,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Kochi
+O01358,2025-09-21,C0022,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01359,2025-09-21,C0002,Darjeeling First Flush,Single estate,1,650,650,Online,Palakkad
+O01360,2025-09-21,C0536,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O01361,2025-09-21,C0015,Darjeeling First Flush,Single estate,1,650,650,Online,Chennai
+O01362,2025-09-21,C0218,Masala Chai Signature,Blend,3,250,750,Store,Chennai
+O01363,2025-09-21,C0217,Masala Chai Signature,Blend,1,250,250,Store,Kochi
+O01364,2025-09-22,C0012,Gift Hamper,Gifting,1,1800,1800,Store,Kozhikode
+O01365,2025-09-22,W009,Masala Chai Signature,Blend,20,250,5000,Wholesale,Thrissur
+O01366,2025-09-22,C0165,Tulsi Ginger,Wellness,2,280,560,Store,Chennai
+O01367,2025-09-22,C0010,Masala Chai Signature,Blend,2,250,500,Store,Bengaluru
+O01368,2025-09-22,C0403,Green Tea Classic,Wellness,3,300,900,Store,Thrissur
+O01369,2025-09-23,C0195,Gift Hamper,Gifting,1,1800,1800,Store,Bengaluru
+O01370,2025-09-23,W001,Darjeeling First Flush,Single estate,30,650,19500,Wholesale,Kochi
+O01371,2025-09-24,C0036,Green Tea Classic,Wellness,3,300,900,Store,Thrissur
+O01372,2025-09-24,C0086,Assam CTC,Everyday,1,220,220,Online,Bengaluru
+O01373,2025-09-25,C0223,Green Tea Classic,Wellness,1,300,300,Marketplace,Kozhikode
+O01374,2025-09-25,C0148,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O01375,2025-09-25,C0011,Gift Hamper,Gifting,1,1800,1800,Online,Kozhikode
+O01376,2025-09-25,C0096,Assam CTC,Everyday,4,220,880,Online,Palakkad
+O01377,2025-09-26,C0099,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O01378,2025-09-26,C0133,Masala Chai Signature,Blend,2,250,500,Online,Chennai
+O01379,2025-09-26,C0557,Green Tea Classic,Wellness,3,300,900,Store,Palakkad
+O01380,2025-09-26,C0258,Gift Hamper,Gifting,2,1800,3600,Marketplace,Thrissur
+O01381,2025-09-26,C0272,Assam CTC,Everyday,2,220,440,Online,Thrissur
+O01382,2025-09-26,C0086,Green Tea Classic,Wellness,1,300,300,Online,Bengaluru
+O01383,2025-09-27,C0159,Darjeeling First Flush,Single estate,2,650,1300,Online,Thrissur
+O01384,2025-09-27,C0008,Gift Hamper,Gifting,2,1800,3600,Online,Bengaluru
+O01385,2025-09-27,W003,Masala Chai Signature,Blend,12,250,3000,Wholesale,Thrissur
+O01386,2025-09-27,C0199,Masala Chai Signature,Blend,1,250,250,Marketplace,Bengaluru
+O01387,2025-09-27,C0328,Gift Hamper,Gifting,1,1800,1800,Marketplace,Palakkad
+O01388,2025-09-27,C0211,Masala Chai Signature,Blend,1,250,250,Store,Thrissur
+O01389,2025-09-27,C0530,Assam CTC,Everyday,3,220,660,Marketplace,Thrissur
+O01390,2025-09-28,C0146,Assam CTC,Everyday,4,220,880,Online,Bengaluru
+O01391,2025-09-28,C0505,Assam CTC,Everyday,3,220,660,Store,Bengaluru
+O01392,2025-09-28,C0029,Masala Chai Signature,Blend,1,250,250,Store,Bengaluru
+O01393,2025-09-28,C0083,Gift Hamper,Gifting,1,1800,1800,Online,Bengaluru
+O01394,2025-09-28,C0083,Assam CTC,Everyday,4,220,880,Online,Bengaluru
+O01395,2025-09-28,C0022,Tulsi Ginger,Wellness,1,280,280,Store,Palakkad
+O01396,2025-09-29,C0294,Assam CTC,Everyday,4,220,880,Store,Kozhikode
+O01397,2025-09-29,C0418,Masala Chai Signature,Blend,3,250,750,Online,Kochi
+O01398,2025-09-29,C0149,Assam CTC,Everyday,1,220,220,Store,Kozhikode
+O01399,2025-09-29,C0142,Assam CTC,Everyday,2,220,440,Online,Palakkad
+O01400,2025-09-29,C0519,Masala Chai Signature,Blend,1,250,250,Store,Thrissur
+O01401,2025-09-29,C0358,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O01402,2025-09-29,W009,Green Tea Classic,Wellness,20,300,6000,Wholesale,Thrissur
+O01403,2025-09-29,C0184,Gift Hamper,Gifting,1,1800,1800,Online,Chennai
+O01404,2025-09-30,C0283,Assam CTC,Everyday,2,220,440,Marketplace,Chennai
+O01405,2025-09-30,C0457,Masala Chai Signature,Blend,2,250,500,Marketplace,Palakkad
+O01406,2025-09-30,C0486,Assam CTC,Everyday,3,220,660,Online,Kozhikode
+O01407,2025-09-30,C0123,Green Tea Classic,Wellness,3,300,900,Online,Thrissur
+O01408,2025-09-30,C0298,Assam CTC,Everyday,4,220,880,Store,Kochi
+O01409,2025-09-30,C0153,Assam CTC,Everyday,3,220,660,Store,Thrissur
+O01410,2025-09-30,C0075,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O01411,2025-09-30,W008,Masala Chai Signature,Blend,10,250,2500,Wholesale,Bengaluru
+O01412,2025-09-30,C0314,Darjeeling First Flush,Single estate,1,650,650,Store,Bengaluru
+O01413,2025-10-01,C0044,Gift Hamper,Gifting,2,1800,3600,Marketplace,Bengaluru
+O01414,2025-10-01,C0010,Green Tea Classic,Wellness,3,300,900,Store,Bengaluru
+O01415,2025-10-01,C0072,Masala Chai Signature,Blend,2,250,500,Marketplace,Bengaluru
+O01416,2025-10-01,C0204,Masala Chai Signature,Blend,2,250,500,Marketplace,Kozhikode
+O01417,2025-10-01,C0030,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01418,2025-10-02,C0282,Masala Chai Signature,Blend,2,250,500,Marketplace,Chennai
+O01419,2025-10-02,W004,Assam CTC,Everyday,10,220,2200,Wholesale,Bengaluru
+O01420,2025-10-02,W005,Assam CTC,Everyday,20,220,4400,Wholesale,Kochi
+O01421,2025-10-02,C0006,Masala Chai Signature,Blend,2,250,500,Store,Kochi
+O01422,2025-10-03,C0020,Masala Chai Signature,Blend,1,250,250,Store,Kozhikode
+O01423,2025-10-03,C0039,Tulsi Ginger,Wellness,1,280,280,Online,Thrissur
+O01424,2025-10-03,C0137,Tulsi Ginger,Wellness,2,280,560,Store,Kozhikode
+O01425,2025-10-03,C0173,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O01426,2025-10-04,C0001,Masala Chai Signature,Blend,2,250,500,Store,Chennai
+O01427,2025-10-04,C0210,Assam CTC,Everyday,4,220,880,Marketplace,Kozhikode
+O01428,2025-10-05,C0129,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O01429,2025-10-05,C0030,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O01430,2025-10-05,W012,Masala Chai Signature,Blend,10,250,2500,Wholesale,Kochi
+O01431,2025-10-05,C0014,Assam CTC,Everyday,1,220,220,Store,Kochi
+O01432,2025-10-05,C0420,Masala Chai Signature,Blend,3,250,750,Marketplace,Kochi
+O01433,2025-10-05,C0056,Masala Chai Signature,Blend,2,250,500,Store,Palakkad
+O01434,2025-10-06,W018,Gift Hamper,Gifting,6,1800,10800,Wholesale,Bengaluru
+O01435,,C0065,Assam CTC,Everyday,4,220,880,Store,Chennai
+O01436,2025-10-06,C0190,Masala Chai Signature,Blend,2,250,500,Store,Palakkad
+O01437,2025-10-06,C0464,Tulsi Ginger,Wellness,1,280,280,Store,Palakkad
+O01438,2025-10-06,C0493,Green Tea Classic,Wellness,1,300,300,Store,Kozhikode
+O01439,2025-10-06,C0441,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O01440,2025-10-07,W002,Assam CTC,Everyday,20,220,4400,Wholesale,Bengaluru
+O01441,2025-10-07,C0030,Masala Chai Signature,Blend,3,250,750,Store,Palakkad
+O01442,2025-10-07,C0307,Green Tea Classic,Wellness,1,300,300,Marketplace,Palakkad
+O01443,2025-10-08,C0059,Assam CTC,Everyday,4,220,880,Store,Bengaluru
+O01444,2025-10-08,C0012,Gift Hamper,Gifting,1,1800,1800,Store,Kozhikode
+O01445,2025-10-08,C0013,Tulsi Ginger,Wellness,2,280,560,Marketplace,Thrissur
+O01446,2025-10-08,W016,Masala Chai Signature,Blend,10,250,2500,Wholesale,Chennai
+O01447,2025-10-08,C0130,Tulsi Ginger,Wellness,3,280,840,Marketplace,Kochi
+O01448,2025-10-08,C0204,Assam CTC,Everyday,2,220,440,Marketplace,Kozhikode
+O01449,2025-10-09,C0204,Tulsi Ginger,Wellness,1,280,280,Marketplace,Kozhikode
+O01450,2025-10-09,C0068,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Kozhikode
+O01451,2025-10-09,C0178,Darjeeling First Flush,Single estate,1,650,650,Online,Palakkad
+O01452,2025-10-09,C0031,Masala Chai Signature,Blend,3,250,750,Online,Kochi
+O01453,2025-10-09,W019,Masala Chai Signature,Blend,12,250,3000,Wholesale,Kozhikode
+O01454,2025-10-09,C0401,Assam CTC,Everyday,4,220,880,Store,Palakkad
+O01455,2025-10-10,C0070,Assam CTC,Everyday,3,220,660,Store,Thrissur
+O01456,2025-10-10,C0129,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O01457,2025-10-10,C0211,Assam CTC,Everyday,4,220,880,Store,Kochi
+O01458,2025-10-10,C0517,Green Tea Classic,Wellness,1,300,300,Online,Kozhikode
+O01459,2025-10-10,C0532,Green Tea Classic,Wellness,3,300,900,Store,Palakkad
+O01460,2025-10-11,C0328,Tulsi Ginger,Wellness,2,280,560,Marketplace,Palakkad
+O01461,2025-10-11,C0141,Tulsi Ginger,Wellness,3,280,840,Online,Chennai
+O01462,2025-10-11,W028,Tulsi Ginger,Wellness,10,280,2800,Wholesale,Chennai
+O01463,2025-10-11,C0478,Assam CTC,Everyday,1,220,220,Marketplace,Palakkad
+O01464,2025-10-11,C0437,Green Tea Classic,Wellness,3,300,900,Marketplace,Kochi
+O01465,2025-10-12,C0010,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O01466,2025-10-12,C0135,Gift Hamper,Gifting,2,1800,3600,Marketplace,Chennai
+O01467,2025-10-12,C0053,Darjeeling First Flush,Single estate,2,650,1300,Store,Palakkad
+O01468,2025-10-12,C0486,Tulsi Ginger,Wellness,2,280,560,Online,Kozhikode
+O01469,2025-10-12,C0554,Masala Chai Signature,Blend,1,250,250,Online,Thrissur
+O01470,2025-10-12,C0178,Masala Chai Signature,Blend,3,250,750,Online,Palakkad
+O01471,2025-10-12,C0108,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O01472,2025-10-13,C0186,Assam CTC,Everyday,2,220,440,Store,Kozhikode
+O01473,2025-10-13,C0032,Assam CTC,Everyday,4,220,880,Online,Chennai
+O01474,2025-10-13,C0068,Green Tea Classic,Wellness,3,300,900,Marketplace,Kozhikode
+O01475,2025-10-13,C0115,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O01476,2025-10-13,W006,Masala Chai Signature,Blend,20,250,5000,Wholesale,Bengaluru
+O01477,2025-10-13,C0119,Assam CTC,Everyday,1,220,220,Online,Thrissur
+O01478,2025-10-14,C0151,Tulsi Ginger,Wellness,2,280,560,Store,Thrissur
+O01479,2025-10-14,C0186,Assam CTC,Everyday,2,220,440,Marketplace,Kozhikode
+O01480,2025-10-14,C0168,Gift Hamper,Gifting,2,1800,3600,Marketplace,Kochi
+O01481,2025-10-14,C0260,Masala Chai Signature,Blend,1,250,250,Store,Palakkad
+O01482,2025-10-15,W001,Masala Chai Signature,Blend,15,250,3750,Wholesale,Kochi
+O01483,2025-10-15,C0485,Tulsi Ginger,Wellness,2,280,560,Marketplace,Kochi
+O01484,2025-10-15,C0258,Assam CTC,Everyday,3,220,660,Marketplace,Thrissur
+O01485,2025-10-15,C0204,Tulsi Ginger,Wellness,3,280,840,Marketplace,Kozhikode
+O01486,2025-10-16,C0406,Masala Chai Signature,Blend,1,250,250,Marketplace,Palakkad
+O01487,2025-10-16,C0125,Assam CTC,Everyday,3,220,660,Online,Palakkad
+O01488,2025-10-16,C0104,Tulsi Ginger,Wellness,2,280,560,Online,Bengaluru
+O01489,2025-10-16,C0055,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O01490,2025-10-16,C0230,Gift Hamper,Gifting,2,1800,3600,Store,Bengaluru
+O01491,2025-10-17,C0205,Assam CTC,Everyday,2,220,440,Online,Chennai
+O01492,2025-10-17,W012,Tulsi Ginger,Wellness,30,280,8400,Wholesale,Kochi
+O01493,2025-10-17,C0195,Assam CTC,Everyday,3,220,660,Marketplace,Bengaluru
+O01494,2025-10-17,C0143,Green Tea Classic,Wellness,2,300,600,Store,Kochi
+O01495,2025-10-17,C0168,Masala Chai Signature,Blend,1,250,250,Marketplace,Kochi
+O01496,2025-10-17,C0466,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O01497,2025-10-17,C0399,Tulsi Ginger,Wellness,2,280,560,Online,Thrissur
+O01498,2025-10-17,C0232,Green Tea Classic,Wellness,1,300,300,Online,Kozhikode
+O01499,2025-10-18,C0130,Masala Chai Signature,Blend,1,250,250,Marketplace,Kochi
+O01500,2025-10-18,C0183,Masala Chai Signature,Blend,1,250,250,Marketplace,Palakkad
+O01501,2025-10-18,W003,Masala Chai Signature,Blend,24,250,6000,Wholesale,Thrissur
+O01502,2025-10-18,C0022,Green Tea Classic,Wellness,3,300,900,Store,Palakkad
+O01503,2025-10-18,C0204,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Kozhikode
+O01504,2025-10-18,C0154,Assam CTC,Everyday,4,220,880,Store,Palakkad
+O01505,2025-10-19,W002,Assam CTC,Everyday,10,220,2200,Wholesale,Bengaluru
+O01506,2025-10-19,C0114,Masala Chai Signature,Blend,2,250,500,Store,Bengaluru
+O01507,2025-10-19,C0199,Assam CTC,Everyday,2,220,440,Marketplace,Bengaluru
+O01508,2025-10-19,C0087,Tulsi Ginger,Wellness,3,280,840,Store,Bengaluru
+O01509,2025-10-19,C0377,Assam CTC,Everyday,3,220,660,Store,Chennai
+O01510,2025-10-19,C0087,Green Tea Classic,Wellness,1,300,300,Online,Bengaluru
+O01511,2025-10-19,W024,Assam CTC,Everyday,10,220,2200,Wholesale,Kochi
+O01512,2025-10-19,C0040,Green Tea Classic,Wellness,2,300,600,Store,Palakkad
+O01513,2025-10-20,C0023,Green Tea Classic,Wellness,1,300,300,Store,Bengaluru
+O01514,2025-10-20,C0485,Tulsi Ginger,Wellness,2,280,560,Online,Kochi
+O01515,2025-10-20,C0190,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O01516,2025-10-20,C0352,Darjeeling First Flush,Single estate,1,650,650,Store,Thrissur
+O01517,2025-10-20,C0372,Assam CTC,Everyday,4,220,880,Store,Kozhikode
+O01518,2025-10-20,W014,Assam CTC,Everyday,10,220,2200,Wholesale,Thrissur
+O01519,2025-10-21,C0187,Green Tea Classic,Wellness,1,300,300,Marketplace,Chennai
+O01520,2025-10-21,C0053,Masala Chai Signature,Blend,2,250,500,Store,Palakkad
+O01521,2025-10-21,C0123,Masala Chai Signature,Blend,3,250,750,Online,Thrissur
+O01522,2025-10-21,C0105,Gift Hamper,Gifting,1,1800,1800,Online,Thrissur
+O01523,2025-10-22,C0513,Masala Chai Signature,Blend,1,250,250,Store,Thrissur
+O01524,2025-10-23,C0345,Assam CTC,Everyday,1,220,220,Store,Kochi
+O01525,2025-10-23,C0477,Green Tea Classic,Wellness,2,300,600,Online,Kochi
+O01526,2025-10-23,C0371,Masala Chai Signature,Blend,1,250,250,Marketplace,Bengaluru
+O01527,2025-10-23,C0068,Masala Chai Signature,Blend,1,250,250,Marketplace,Kozhikode
+O01528,2025-10-23,C0166,Tulsi Ginger,Wellness,1,280,280,Store,Kozhikode
+O01529,2025-10-23,W010,Tulsi Ginger,Wellness,12,280,3360,Wholesale,Kozhikode
+O01530,2025-10-24,C0234,Tulsi Ginger,Wellness,2,280,560,Store,Palakkad
+O01531,2025-10-24,C0064,Assam CTC,Everyday,3,220,660,Marketplace,Thrissur
+O01532,2025-10-24,C0207,Masala Chai Signature,Blend,1,250,250,Online,Chennai
+O01533,2025-10-24,W040,Darjeeling First Flush,Single estate,30,650,19500,Wholesale,Bengaluru
+O01534,2025-10-24,C0555,Green Tea Classic,Wellness,1,300,300,Online,Kochi
+O01535,2025-10-25,C0363,Assam CTC,Everyday,3,220,660,Store,Palakkad
+O01536,2025-10-25,C0093,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01537,2025-10-25,C0171,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Chennai
+O01538,2025-10-25,C0164,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O01539,2025-10-26,C0425,Masala Chai Signature,Blend,2,250,500,Marketplace,Kochi
+O01540,2025-10-26,C0318,Green Tea Classic,Wellness,3,300,900,Store,Kochi
+O01541,2025-10-26,C0393,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O01542,2025-10-26,W001,Tulsi Ginger,Wellness,20,280,5600,Wholesale,Kochi
+O01543,2025-10-26,C0117,Green Tea Classic,Wellness,1,300,300,Store,Kozhikode
+O01544,2025-10-26,C0307,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Palakkad
+O01545,2025-10-26,C0057,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O01546,2025-10-27,W002,Assam CTC,Everyday,24,220,5280,Wholesale,Bengaluru
+O01547,2025-10-27,C0047,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Palakkad
+O01548,2025-10-27,W011,Assam CTC,Everyday,15,220,3300,Wholesale,Chennai
+O01549,2025-10-27,C0040,Assam CTC,Everyday,2,220,440,Store,Palakkad
+O01550,2025-10-27,C0010,Masala Chai Signature,Blend,2,250,500,Store,Bengaluru
+O01551,2025-10-28,C0053,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O01552,2025-10-28,C0055,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O01553,2025-10-28,W001,Masala Chai Signature,Blend,20,250,5000,Wholesale,Kochi
+O01554,2025-10-29,C0277,Green Tea Classic,Wellness,2,300,600,Marketplace,Thrissur
+O01555,2025-10-29,C0367,Gift Hamper,Gifting,1,1800,1800,Online,Kozhikode
+O01556,2025-10-29,C0057,Masala Chai Signature,Blend,2,250,500,Online,Palakkad
+O01557,2025-10-30,W019,Assam CTC,Everyday,20,220,4400,Wholesale,Kozhikode
+O01558,2025-10-30,C0510,Tulsi Ginger,Wellness,3,280,840,Online,Palakkad
+O01559,2025-10-30,C0195,Tulsi Ginger,Wellness,1,280,280,Store,Bengaluru
+O01560,2025-10-30,C0316,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O01561,2025-10-30,C0014,Masala Chai Signature,Blend,2,250,500,Store,Kochi
+O01562,2025-10-30,C0091,Assam CTC,Everyday,2,220,440,Online,Bengaluru
+O01563,2025-10-31,C0049,Green Tea Classic,Wellness,3,300,900,Store,Palakkad
+O01564,2025-10-31,C0012,Assam CTC,Everyday,2,220,440,Store,Kozhikode
+O01565,2025-10-31,C0229,Tulsi Ginger,Wellness,2,280,560,Online,Thrissur
+O01566,2025-11-01,C0338,Masala Chai Signature,Blend,3,250,750,Store,Kozhikode
+O01567,2025-11-01,C0421,Masala Chai Signature,Blend,3,250,750,Marketplace,Kochi
+O01568,2025-11-01,C0205,Masala Chai Signature,Blend,1,250,250,Online,Chennai
+O01569,2025-11-01,C0083,Green Tea Classic,Wellness,1,300,300,Online,Bengaluru
+O01570,2025-11-01,C0047,Masala Chai Signature,Blend,3,250,750,Marketplace,Palakkad
+O01571,2025-11-01,C0053,Gift Hamper,Gifting,2,1800,3600,Store,Palakkad
+O01572,2025-11-02,C0195,Masala Chai Signature,Blend,1,250,250,Marketplace,Bengaluru
+O01573,2025-11-02,C0028,Tulsi Ginger,Wellness,1,280,280,Online,Palakkad
+O01574,2025-11-02,C0130,Assam CTC,Everyday,1,220,220,Marketplace,Kochi
+O01575,2025-11-02,C0379,Green Tea Classic,Wellness,1,300,300,Online,Thrissur
+O01576,2025-11-02,C0477,Green Tea Classic,Wellness,1,300,300,Online,Kochi
+O01577,2025-11-02,C0144,Gift Hamper,Gifting,1,1800,1800,Online,Bengaluru
+O01578,2025-11-02,C0296,Tulsi Ginger,Wellness,1,280,280,Store,Palakkad
+O01579,2025-11-02,C0221,Assam CTC,Everyday,2,220,440,Store,Kochi
+O01580,2025-11-03,C0524,Darjeeling First Flush,Single estate,1,650,650,Store,Thrissur
+O01581,2025-11-03,C0038,Assam CTC,Everyday,3,220,660,Store,Thrissur
+O01582,2025-11-03,C0310,Masala Chai Signature,Blend,1,250,250,Store,Bengaluru
+O01583,2025-11-04,C0250,Masala Chai Signature,Blend,3,250,750,Marketplace,Kozhikode
+O01584,2025-11-04,C0332,Darjeeling First Flush,Single estate,2,650,1300,Online,Kozhikode
+O01585,2025-11-04,C0114,Masala Chai Signature,Blend,3,250,750,Store,Kochi
+O01586,2025-11-04,C0304,Assam CTC,Everyday,1,220,220,Store,Kozhikode
+O01587,2025-11-04,C0409,Gift Hamper,Gifting,1,1800,1800,Store,Bengaluru
+O01588,2025-11-05,W005,Masala Chai Signature,Blend,12,250,3000,Wholesale,Kochi
+O01589,,C0249,Tulsi Ginger,Wellness,2,280,560,Online,Kochi
+O01590,2025-11-05,C0067,Tulsi Ginger,Wellness,3,280,840,Online,Thrissur
+O01591,2025-11-05,C0537,Masala Chai Signature,Blend,2,250,500,Marketplace,Thrissur
+O01592,,C0106,Masala Chai Signature,Blend,3,250,750,Online,Kozhikode
+O01593,2025-11-06,C0052,Masala Chai Signature,Blend,2,250,500,Store,Bengaluru
+O01594,2025-11-07,C0371,Green Tea Classic,Wellness,1,300,300,Online,Bengaluru
+O01595,2025-11-08,C0023,Assam CTC,Everyday,3,220,660,Store,Bengaluru
+O01596,2025-11-08,C0430,Assam CTC,Everyday,2,220,440,Marketplace,Palakkad
+O01597,2025-11-08,C0027,Green Tea Classic,Wellness,2,300,600,Store,Bengaluru
+O01598,2025-11-08,C0141,Assam CTC,Everyday,2,220,440,Online,Chennai
+O01599,2025-11-09,C0538,Tulsi Ginger,Wellness,2,280,560,Online,Palakkad
+O01600,2025-11-09,C0061,Green Tea Classic,Wellness,2,300,600,Store,Bengaluru
+O01601,2025-11-09,W002,Masala Chai Signature,Blend,10,250,2500,Wholesale,Bengaluru
+O01602,2025-11-09,C0250,Masala Chai Signature,Blend,1,250,250,Marketplace,Kozhikode
+O01603,2025-11-09,C0086,Masala Chai Signature,Blend,2,250,500,Online,Bengaluru
+O01604,2025-11-09,W005,Assam CTC,Everyday,20,220,4400,Wholesale,Kochi
+O01605,2025-11-10,C0184,Darjeeling First Flush,Single estate,1,650,650,Online,Chennai
+O01606,2025-11-10,C0243,Assam CTC,Everyday,4,220,880,Store,Bengaluru
+O01607,2025-11-10,C0002,Masala Chai Signature,Blend,3,250,750,Online,Palakkad
+O01608,2025-11-10,C0080,Darjeeling First Flush,Single estate,2,650,1300,Online,Thrissur
+O01609,2025-11-10,C0528,Masala Chai Signature,Blend,1,250,250,Marketplace,Bengaluru
+O01610,2025-11-10,C0086,Masala Chai Signature,Blend,2,250,500,Online,Bengaluru
+O01611,2025-11-10,W004,Green Tea Classic,Wellness,15,300,4500,Wholesale,Bengaluru
+O01612,2025-11-10,W012,Masala Chai Signature,Blend,20,250,5000,Wholesale,Kochi
+O01613,2025-11-10,C0020,Masala Chai Signature,Blend,2,250,500,Store,Kozhikode
+O01614,2025-11-11,C0463,Assam CTC,Everyday,1,220,220,Store,Kochi
+O01615,2025-11-11,C0358,Tulsi Ginger,Wellness,2,280,560,Store,Kochi
+O01616,2025-11-11,C0110,Masala Chai Signature,Blend,1,250,250,Marketplace,Kozhikode
+O01617,2025-11-11,C0055,Green Tea Classic,Wellness,1,300,300,Online,Kochi
+O01618,2025-11-12,C0500,Assam CTC,Everyday,4,220,880,Online,Chennai
+O01619,2025-11-12,C0347,Assam CTC,Everyday,3,220,660,Store,Kochi
+O01620,2025-11-12,C0050,Masala Chai Signature,Blend,1,250,250,Store,Kochi
+O01621,2025-11-12,W007,Gift Hamper,Gifting,10,1800,18000,Wholesale,Kozhikode
+O01622,2025-11-13,C0170,Assam CTC,Everyday,2,220,440,Store,Kochi
+O01623,2025-11-13,C0418,Gift Hamper,Gifting,1,1800,1800,Store,Bengaluru
+O01624,2025-11-13,C0431,Darjeeling First Flush,Single estate,1,650,650,Store,Bengaluru
+O01625,2025-11-13,C0053,Masala Chai Signature,Blend,1,250,250,Store,Palakkad
+O01626,2025-11-13,C0077,Assam CTC,Everyday,4,220,880,Online,Chennai
+O01627,2025-11-13,C0224,Masala Chai Signature,Blend,2,250,500,Store,Thrissur
+O01628,2025-11-13,C0301,Assam CTC,Everyday,2,220,440,Store,Kochi
+O01629,2025-11-14,C0040,Assam CTC,Everyday,2,220,440,Marketplace,Palakkad
+O01630,2025-11-14,C0054,Assam CTC,Everyday,1,220,220,Online,Chennai
+O01631,2025-11-15,C0121,Darjeeling First Flush,Single estate,2,650,1300,Store,Thrissur
+O01632,2025-11-15,W020,Green Tea Classic,Wellness,10,300,3000,Wholesale,Palakkad
+O01633,2025-11-15,W017,Assam CTC,Everyday,24,220,5280,Wholesale,Kochi
+O01634,2025-11-15,W008,Tulsi Ginger,Wellness,15,280,4200,Wholesale,Bengaluru
+O01635,2025-11-15,C0307,Assam CTC,Everyday,2,220,440,Marketplace,Palakkad
+O01636,2025-11-15,C0011,Masala Chai Signature,Blend,2,250,500,Online,Kozhikode
+O01637,2025-11-16,W038,Darjeeling First Flush,Single estate,24,650,15600,Wholesale,Bengaluru
+O01638,2025-11-16,C0246,Masala Chai Signature,Blend,1,250,250,Online,Kozhikode
+O01639,2025-11-16,C0167,Darjeeling First Flush,Single estate,1,650,650,Store,Chennai
+O01640,2025-11-16,C0253,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O01641,2025-11-17,W004,Green Tea Classic,Wellness,10,300,3000,Wholesale,Bengaluru
+O01642,2025-11-17,C0039,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O01643,2025-11-17,C0010,Assam CTC,Everyday,3,220,660,Store,Bengaluru
+O01644,2025-11-17,C0047,Masala Chai Signature,Blend,1,250,250,Marketplace,Palakkad
+O01645,2025-11-17,C0257,Masala Chai Signature,Blend,3,250,750,Store,Kozhikode
+O01646,2025-11-17,W005,Tulsi Ginger,Wellness,24,280,6720,Wholesale,Kochi
+O01647,2025-11-17,C0083,Masala Chai Signature,Blend,2,250,500,Online,Bengaluru
+O01648,2025-11-17,W017,Assam CTC,Everyday,30,220,6600,Wholesale,Kochi
+O01649,2025-11-17,C0216,Masala Chai Signature,Blend,1,250,250,Online,Kozhikode
+O01650,2025-11-17,C0039,Masala Chai Signature,Blend,2,250,500,Marketplace,Thrissur
+O01651,2025-11-18,C0520,Masala Chai Signature,Blend,2,250,500,Online,Chennai
+O01652,2025-11-18,C0552,Masala Chai Signature,Blend,3,250,750,Store,Kozhikode
+O01653,2025-11-18,C0031,Darjeeling First Flush,Single estate,1,650,650,Online,Kochi
+O01654,2025-11-18,C0146,Masala Chai Signature,Blend,2,250,500,Online,Bengaluru
+O01655,2025-11-19,C0172,Darjeeling First Flush,Single estate,2,650,1300,Online,Bengaluru
+O01656,2025-11-19,C0485,Masala Chai Signature,Blend,2,250,500,Marketplace,Kochi
+O01657,2025-11-19,C0020,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O01658,2025-11-19,C0104,Tulsi Ginger,Wellness,1,280,280,Store,Bengaluru
+O01659,2025-11-19,W006,Assam CTC,Everyday,10,220,2200,Wholesale,Bengaluru
+O01660,2025-11-20,C0130,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Kochi
+O01661,2025-11-20,C0485,Assam CTC,Everyday,4,220,880,Marketplace,Kochi
+O01662,2025-11-21,C0006,Green Tea Classic,Wellness,1,300,300,Store,Kochi
+O01663,2025-11-21,C0013,Green Tea Classic,Wellness,3,300,900,Online,Thrissur
+O01664,2025-11-22,C0034,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Thrissur
+O01665,2025-11-22,C0028,Masala Chai Signature,Blend,1,250,250,Online,Palakkad
+O01666,2025-11-22,W019,Tulsi Ginger,Wellness,30,280,8400,Wholesale,Kozhikode
+O01667,2025-11-22,C0016,Masala Chai Signature,Blend,1,250,250,Store,Kochi
+O01668,2025-11-22,C0023,Darjeeling First Flush,Single estate,1,650,650,Store,Bengaluru
+O01669,2025-11-22,C0015,Green Tea Classic,Wellness,3,300,900,Online,Chennai
+O01670,2025-11-22,C0084,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O01671,2025-11-22,C0105,Tulsi Ginger,Wellness,3,280,840,Marketplace,Thrissur
+O01672,2025-11-23,C0246,Green Tea Classic,Wellness,1,300,300,Online,Kochi
+O01673,2025-11-23,C0131,Masala Chai Signature,Blend,1,250,250,Online,Kochi
+O01674,2025-11-23,C0036,Masala Chai Signature,Blend,3,250,750,Store,Thrissur
+O01675,2025-11-24,W011,Green Tea Classic,Wellness,12,300,3600,Wholesale,Chennai
+O01676,2025-11-24,C0175,Masala Chai Signature,Blend,1,250,250,Online,Thrissur
+O01677,2025-11-24,C0169,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O01678,2025-11-24,W035,Darjeeling First Flush,Single estate,20,650,13000,Wholesale,Bengaluru
+O01679,2025-11-24,C0030,Masala Chai Signature,Blend,1,250,250,Store,Palakkad
+O01680,2025-11-24,W010,Darjeeling First Flush,Single estate,10,650,6500,Wholesale,Kozhikode
+O01681,2025-11-24,C0020,Assam CTC,Everyday,1,220,220,Online,Kozhikode
+O01682,2025-11-24,C0077,Assam CTC,Everyday,4,220,880,Store,Chennai
+O01683,2025-11-25,C0009,Masala Chai Signature,Blend,2,250,500,Online,Thrissur
+O01684,2025-11-25,C0031,Tulsi Ginger,Wellness,2,280,560,Online,Kochi
+O01685,2025-11-26,C0054,Assam CTC,Everyday,1,220,220,Store,Chennai
+O01686,2025-11-26,C0239,Tulsi Ginger,Wellness,2,280,560,Online,Kochi
+O01687,2025-11-26,C0118,Darjeeling First Flush,Single estate,2,650,1300,Online,Kozhikode
+O01688,2025-11-26,C0029,Masala Chai Signature,Blend,2,250,500,Store,Bengaluru
+O01689,2025-11-27,C0004,Tulsi Ginger,Wellness,2,280,560,Online,Kozhikode
+O01690,2025-11-27,C0079,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Kochi
+O01691,2025-11-27,C0355,Assam CTC,Everyday,2,220,440,Online,Kochi
+O01692,2025-11-27,C0370,Assam CTC,Everyday,2,220,440,Store,Kozhikode
+O01693,2025-11-28,W016,Darjeeling First Flush,Single estate,12,650,7800,Wholesale,Chennai
+O01694,2025-11-28,C0077,Assam CTC,Everyday,3,220,660,Online,Chennai
+O01695,2025-11-28,C0287,Assam CTC,Everyday,2,220,440,Marketplace,Palakkad
+O01696,2025-11-28,C0440,Masala Chai Signature,Blend,2,250,500,Store,Chennai
+O01697,2025-11-29,C0259,Green Tea Classic,Wellness,3,300,900,Online,Bengaluru
+O01698,2025-11-29,C0039,Green Tea Classic,Wellness,2,300,600,Marketplace,Thrissur
+O01699,2025-11-29,C0440,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O01700,2025-11-29,C0091,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O01701,2025-11-29,C0189,Green Tea Classic,Wellness,2,300,600,Online,Chennai
+O01702,2025-11-30,C0339,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O01703,2025-11-30,C0068,Tulsi Ginger,Wellness,2,280,560,Marketplace,Kozhikode
+O01704,2025-11-30,C0001,Green Tea Classic,Wellness,2,300,600,Store,Chennai
+O01705,2025-11-30,C0277,Green Tea Classic,Wellness,1,300,300,Online,Kozhikode
+O01706,2025-11-30,W002,Assam CTC,Everyday,15,220,3300,Wholesale,Bengaluru
+O01707,2025-11-30,C0039,Masala Chai Signature,Blend,1,250,250,Marketplace,Thrissur
+O01708,2025-11-30,C0029,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O01709,2025-11-30,C0055,Darjeeling First Flush,Single estate,1,650,650,Store,Kochi
+O01710,2025-12-01,C0066,Green Tea Classic,Wellness,2,300,600,Online,Chennai
+O01711,,C0119,Assam CTC,Everyday,4,220,880,Online,Thrissur
+O01712,2025-12-01,C0046,Tulsi Ginger,Wellness,2,280,560,Store,Chennai
+O01713,2025-12-01,W003,Masala Chai Signature,Blend,20,250,5000,Wholesale,Thrissur
+O01714,2025-12-02,W032,Assam CTC,Everyday,30,220,6600,Wholesale,Thrissur
+O01715,2025-12-02,W008,Assam CTC,Everyday,24,220,5280,Wholesale,Bengaluru
+O01716,2025-12-02,C0061,Masala Chai Signature,Blend,1,250,250,Store,Bengaluru
+O01717,2025-12-02,C0168,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Kochi
+O01718,2025-12-02,C0028,Green Tea Classic,Wellness,1,300,300,Online,Palakkad
+O01719,2025-12-02,C0486,Green Tea Classic,Wellness,2,300,600,Online,Kozhikode
+O01720,2025-12-02,C0150,Assam CTC,Everyday,4,220,880,Online,Thrissur
+O01721,2025-12-03,C0291,Assam CTC,Everyday,1,220,220,Online,Bengaluru
+O01722,2025-12-03,C0240,Masala Chai Signature,Blend,1,250,250,Online,Kochi
+O01723,2025-12-04,C0456,Assam CTC,Everyday,2,220,440,Marketplace,Thrissur
+O01724,2025-12-04,C0406,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Palakkad
+O01725,2025-12-04,C0082,Darjeeling First Flush,Single estate,1,650,650,Online,Bengaluru
+O01726,2025-12-04,C0501,Masala Chai Signature,Blend,1,250,250,Store,Kozhikode
+O01727,2025-12-04,C0420,Masala Chai Signature,Blend,3,250,750,Marketplace,Kochi
+O01728,2025-12-04,C0031,Tulsi Ginger,Wellness,1,280,280,Online,Kochi
+O01729,2025-12-04,C0530,Masala Chai Signature,Blend,1,250,250,Marketplace,Thrissur
+O01730,2025-12-04,W031,Green Tea Classic,Wellness,30,300,9000,Wholesale,Chennai
+O01731,2025-12-04,C0001,Gift Hamper,Gifting,1,1800,1800,Store,Chennai
+O01732,2025-12-05,C0146,Green Tea Classic,Wellness,1,300,300,Online,Bengaluru
+O01733,2025-12-05,C0411,Assam CTC,Everyday,1,220,220,Online,Palakkad
+O01734,2025-12-05,C0031,Assam CTC,Everyday,1,220,220,Online,Kochi
+O01735,2025-12-05,C0084,Green Tea Classic,Wellness,1,300,300,Store,Thrissur
+O01736,2025-12-06,W039,Tulsi Ginger,Wellness,12,280,3360,Wholesale,Chennai
+O01737,2025-12-06,C0256,Assam CTC,Everyday,2,220,440,Online,Kozhikode
+O01738,2025-12-06,C0448,Tulsi Ginger,Wellness,3,280,840,Store,Kozhikode
+O01739,2025-12-06,C0343,Green Tea Classic,Wellness,1,300,300,Online,Thrissur
+O01740,2025-12-06,C0027,Tulsi Ginger,Wellness,2,280,560,Store,Bengaluru
+O01741,2025-12-06,C0314,Masala Chai Signature,Blend,3,250,750,Store,Bengaluru
+O01742,2025-12-06,C0506,Masala Chai Signature,Blend,1,250,250,Store,Chennai
+O01743,2025-12-07,C0371,Masala Chai Signature,Blend,3,250,750,Marketplace,Bengaluru
+O01744,2025-12-07,C0191,Tulsi Ginger,Wellness,3,280,840,Store,Kochi
+O01745,2025-12-07,C0093,Green Tea Classic,Wellness,3,300,900,Online,Palakkad
+O01746,2025-12-07,C0332,Assam CTC,Everyday,1,220,220,Online,Kozhikode
+O01747,2025-12-07,C0157,Assam CTC,Everyday,3,220,660,Store,Bengaluru
+O01748,2025-12-07,C0328,Green Tea Classic,Wellness,3,300,900,Marketplace,Palakkad
+O01749,2025-12-07,C0234,Masala Chai Signature,Blend,3,250,750,Store,Palakkad
+O01750,2025-12-08,C0003,Assam CTC,Everyday,4,220,880,Store,Chennai
+O01751,2025-12-08,C0013,Masala Chai Signature,Blend,3,250,750,Marketplace,Thrissur
+O01752,2025-12-08,W038,Assam CTC,Everyday,24,220,5280,Wholesale,Bengaluru
+O01753,2025-12-08,W009,Darjeeling First Flush,Single estate,10,650,6500,Wholesale,Thrissur
+O01754,2025-12-09,C0077,Masala Chai Signature,Blend,2,250,500,Online,Chennai
+O01755,2025-12-09,C0123,Green Tea Classic,Wellness,3,300,900,Online,Thrissur
+O01756,2025-12-09,C0161,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O01757,2025-12-09,C0040,Assam CTC,Everyday,4,220,880,Store,Palakkad
+O01758,2025-12-09,C0287,Masala Chai Signature,Blend,3,250,750,Marketplace,Palakkad
+O01759,2025-12-09,C0253,Masala Chai Signature,Blend,2,250,500,Online,Palakkad
+O01760,2025-12-10,W012,Assam CTC,Everyday,30,220,6600,Wholesale,Kochi
+O01761,2025-12-10,C0057,Green Tea Classic,Wellness,1,300,300,Store,Palakkad
+O01762,2025-12-11,C0054,Tulsi Ginger,Wellness,1,280,280,Store,Chennai
+O01763,2025-12-11,C0184,Assam CTC,Everyday,2,220,440,Online,Chennai
+O01764,2025-12-12,W010,Darjeeling First Flush,Single estate,24,650,15600,Wholesale,Kozhikode
+O01765,2025-12-12,C0210,Darjeeling First Flush,Single estate,2,650,1300,Marketplace,Kozhikode
+O01766,2025-12-12,C0047,Tulsi Ginger,Wellness,1,280,280,Marketplace,Palakkad
+O01767,2025-12-12,W018,Masala Chai Signature,Blend,24,250,6000,Wholesale,Bengaluru
+O01768,2025-12-13,C0290,Tulsi Ginger,Wellness,2,280,560,Online,Kochi
+O01769,2025-12-13,C0181,Masala Chai Signature,Blend,2,250,500,Online,Thrissur
+O01770,2025-12-13,C0184,Masala Chai Signature,Blend,2,250,500,Online,Chennai
+O01771,2025-12-14,C0336,Darjeeling First Flush,Single estate,1,650,650,Store,Palakkad
+O01772,,C0041,Masala Chai Signature,Blend,2,250,500,Online,Chennai
+O01773,2025-12-15,C0398,Darjeeling First Flush,Single estate,1,650,650,Online,Thrissur
+O01774,2025-12-15,W017,Masala Chai Signature,Blend,24,250,6000,Wholesale,Kochi
+O01775,2025-12-16,C0206,Masala Chai Signature,Blend,2,250,500,Store,Kochi
+O01776,2025-12-16,C0124,Tulsi Ginger,Wellness,3,280,840,Store,Chennai
+O01777,2025-12-16,C0104,Darjeeling First Flush,Single estate,1,650,650,Online,Bengaluru
+O01778,2025-12-16,C0006,Darjeeling First Flush,Single estate,2,650,1300,Store,Kochi
+O01779,2025-12-16,C0420,Masala Chai Signature,Blend,3,250,750,Marketplace,Kochi
+O01780,2025-12-16,C0397,Assam CTC,Everyday,1,220,220,Online,Palakkad
+O01781,2025-12-16,C0034,Masala Chai Signature,Blend,1,250,250,Marketplace,Thrissur
+O01782,2025-12-17,C0239,Green Tea Classic,Wellness,2,300,600,Online,Kochi
+O01783,2025-12-17,C0382,Masala Chai Signature,Blend,3,250,750,Online,Palakkad
+O01784,2025-12-17,C0486,Masala Chai Signature,Blend,3,250,750,Online,Kozhikode
+O01785,2025-12-18,C0250,Gift Hamper,Gifting,1,1800,1800,Marketplace,Kozhikode
+O01786,2025-12-18,C0363,Assam CTC,Everyday,1,220,220,Store,Palakkad
+O01787,2025-12-18,W011,Masala Chai Signature,Blend,12,250,3000,Wholesale,Chennai
+O01788,2025-12-19,C0002,Assam CTC,Everyday,4,220,880,Online,Palakkad
+O01789,2025-12-19,C0044,Assam CTC,Everyday,3,220,660,Store,Bengaluru
+O01790,2025-12-19,C0034,Darjeeling First Flush,Single estate,1,650,650,Marketplace,Thrissur
+O01791,2025-12-19,W018,Tulsi Ginger,Wellness,15,280,4200,Wholesale,Bengaluru
+O01792,2025-12-20,C0101,Assam CTC,Everyday,2,220,440,Store,Bengaluru
+O01793,2025-12-20,C0548,Masala Chai Signature,Blend,3,250,750,Store,Kochi
+O01794,2025-12-20,C0187,Tulsi Ginger,Wellness,2,280,560,Marketplace,Chennai
+O01795,2025-12-20,C0087,Green Tea Classic,Wellness,1,300,300,Store,Bengaluru
+O01796,2025-12-20,C0147,Masala Chai Signature,Blend,2,250,500,Online,Kozhikode
+O01797,2025-12-20,W007,Green Tea Classic,Wellness,24,300,7200,Wholesale,Kozhikode
+O01798,2025-12-21,W001,Assam CTC,Everyday,12,220,2640,Wholesale,Kochi
+O01799,2025-12-21,C0016,Darjeeling First Flush,Single estate,1,650,650,Store,Kochi
+O01800,2025-12-21,C0204,Tulsi Ginger,Wellness,3,280,840,Marketplace,Kozhikode
+O01801,2025-12-21,C0194,Darjeeling First Flush,Single estate,2,650,1300,Store,Chennai
+O01802,2025-12-21,C0012,Assam CTC,Everyday,4,220,880,Store,Kozhikode
+O01803,2025-12-21,C0456,Tulsi Ginger,Wellness,2,280,560,Marketplace,Thrissur
+O01804,2025-12-21,W019,Green Tea Classic,Wellness,15,300,4500,Wholesale,Kozhikode
+O01805,2025-12-21,W001,Masala Chai Signature,Blend,30,250,7500,Wholesale,Kochi
+O01806,2025-12-22,C0181,Assam CTC,Everyday,3,220,660,Online,Thrissur
+O01807,2025-12-22,C0363,Green Tea Classic,Wellness,2,300,600,Store,Palakkad
+O01808,2025-12-22,C0360,Assam CTC,Everyday,3,220,660,Online,Bengaluru
+O01809,2025-12-22,C0196,Tulsi Ginger,Wellness,1,280,280,Online,Kozhikode
+O01810,2025-12-23,C0073,Masala Chai Signature,Blend,1,250,250,Online,Bengaluru
+O01811,2025-12-23,C0222,Gift Hamper,Gifting,1,1800,1800,Store,Chennai
+O01812,2025-12-23,C0012,Assam CTC,Everyday,3,220,660,Store,Kozhikode
+O01813,2025-12-23,C0040,Masala Chai Signature,Blend,1,250,250,Marketplace,Palakkad
+O01814,2025-12-24,C0029,Green Tea Classic,Wellness,3,300,900,Store,Bengaluru
+O01815,2025-12-24,C0182,Masala Chai Signature,Blend,2,250,500,Store,Thrissur
+O01816,2025-12-24,W001,Masala Chai Signature,Blend,24,250,6000,Wholesale,Kochi
+O01817,2025-12-24,C0059,Tulsi Ginger,Wellness,1,280,280,Store,Bengaluru
+O01818,2025-12-25,C0237,Green Tea Classic,Wellness,3,300,900,Store,Kochi
+O01819,2025-12-25,C0147,Tulsi Ginger,Wellness,3,280,840,Online,Kozhikode
+O01820,2025-12-25,C0069,Gift Hamper,Gifting,2,1800,3600,Store,Kozhikode
+O01821,2025-12-25,C0155,Gift Hamper,Gifting,2,1800,3600,Store,Chennai
+O01822,2025-12-25,C0527,Assam CTC,Everyday,4,220,880,Online,Chennai
+O01823,2025-12-25,W036,Tulsi Ginger,Wellness,24,280,6720,Wholesale,Kochi
+O01824,2025-12-26,C0339,Masala Chai Signature,Blend,2,250,500,Online,Bengaluru
+O01825,2025-12-26,C0053,Masala Chai Signature,Blend,3,250,750,Store,Palakkad
+O01826,2025-12-26,C0002,Masala Chai Signature,Blend,3,250,750,Online,Palakkad
+O01827,2025-12-26,C0170,Masala Chai Signature,Blend,2,250,500,Store,Kochi
+O01828,2025-12-26,W017,Gift Hamper,Gifting,6,1800,10800,Wholesale,Kochi
+O01829,2025-12-26,C0036,Gift Hamper,Gifting,1,1800,1800,Store,Kozhikode
+O01830,,C0068,Gift Hamper,Gifting,2,1800,3600,Marketplace,Kozhikode
+O01831,2025-12-27,C0152,Green Tea Classic,Wellness,1,300,300,Online,Chennai
+O01832,2025-12-27,C0404,Green Tea Classic,Wellness,1,300,300,Store,Chennai
+O01833,2025-12-27,C0315,Gift Hamper,Gifting,1,1800,1800,Marketplace,Palakkad
+O01834,2025-12-27,C0044,Gift Hamper,Gifting,1,1800,1800,Marketplace,Bengaluru
+O01835,2025-12-27,C0474,Masala Chai Signature,Blend,2,250,500,Store,Chennai
+O01836,2025-12-27,W009,Assam CTC,Everyday,10,220,2200,Wholesale,Thrissur
+O01837,2025-12-27,C0020,Gift Hamper,Gifting,1,1800,1800,Store,Kozhikode
+O01838,2025-12-27,C0330,Assam CTC,Everyday,1,220,220,Store,Bengaluru
+O01839,2025-12-27,C0063,Assam CTC,Everyday,1,220,220,Store,Kochi
+O01840,2025-12-28,C0236,Darjeeling First Flush,Single estate,2,650,1300,Store,Kozhikode
+O01841,2025-12-28,C0034,Masala Chai Signature,Blend,1,250,250,Marketplace,Thrissur
+O01842,2025-12-28,C0055,Gift Hamper,Gifting,1,1800,1800,Online,Thrissur
+O01843,2025-12-28,C0430,Masala Chai Signature,Blend,2,250,500,Online,Palakkad
+O01844,2025-12-29,W025,Assam CTC,Everyday,24,220,5280,Wholesale,Palakkad
+O01845,2025-12-29,C0496,Darjeeling First Flush,Single estate,2,650,1300,Online,Bengaluru
+O01846,2025-12-29,C0135,Darjeeling First Flush,Single estate,1,650,650,Store,Chennai
+O01847,2025-12-29,C0339,Masala Chai Signature,Blend,1,250,250,Online,Bengaluru
+O01848,2025-12-29,C0081,Assam CTC,Everyday,2,220,440,Store,Thrissur
+O01849,2025-12-30,C0187,Masala Chai Signature,Blend,3,250,750,Online,Chennai
+O01850,2025-12-30,C0020,Darjeeling First Flush,Single estate,1,650,650,Store,Kozhikode
+O01851,2025-12-30,C0557,Gift Hamper,Gifting,1,1800,1800,Store,Palakkad
+O01852,2025-12-30,C0039,Green Tea Classic,Wellness,3,300,900,Online,Thrissur
+O01853,2025-12-30,C0061,Masala Chai Signature,Blend,1,250,250,Store,Bengaluru
+O01854,,C0014,Assam CTC,Everyday,1,220,220,Store,Kochi
+O01855,2025-12-30,W011,Darjeeling First Flush,Single estate,20,650,13000,Wholesale,Chennai
+O01856,2025-12-31,C0190,Masala Chai Signature,Blend,2,250,500,Store,Palakkad
+O01857,2025-12-31,C0188,Masala Chai Signature,Blend,1,250,250,Store,Thrissur
+O01858,2025-12-31,C0122,Green Tea Classic,Wellness,2,300,600,Online,Kozhikode
+O01859,2025-12-31,W017,Assam CTC,Everyday,20,220,4400,Wholesale,Kochi
+O01860,2025-12-31,C0070,Tulsi Ginger,Wellness,3,280,840,Store,Thrissur
+O01861,2025-12-31,C0222,Darjeeling First Flush,Single estate,1,650,650,Store,Bengaluru
+O01862,2025-12-31,C0001,Masala Chai Signature,Blend,3,250,750,Store,Chennai
