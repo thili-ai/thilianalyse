@@ -29,9 +29,9 @@ Then paste this into a fresh chat with `orders.csv` attached:
 
 ```
 I own a small tea retailer, Chai & Co. I have ₹1 lakh to spend next quarter on ONE of these:
-1. A part-time helper for Saturdays and Sundays.
-2. Promotion for our Online and Marketplace channels.
-3. Extra stock of one product line.
+(1) A part-time helper for Saturdays and Sundays.
+(2) Promotion for our Online and Marketplace channels.
+(3) Extra stock of one product line.
 
 The attached orders.csv has every order from one calendar year. Columns: order_id, order_date, customer_id (C = retail customer, W = wholesale account), product, category, quantity, unit_price, amount (order total in rupees), channel (Store, Online, Marketplace, Wholesale), city.
 
