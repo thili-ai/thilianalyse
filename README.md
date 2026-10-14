@@ -33,6 +33,7 @@ You do not need an account and you do not need to understand this site.
 |---|---|---|
 | `orders.csv` | Lessons 1 to 4 | One year of orders from the fictional tea shop, about 1,900 rows. Upload it to your AI assistant as it is |
 | `prompts.md` | Lesson 1 | The two prompts you compare: the plain one everyone types, and the four-part one. Copy them as written |
+| `decision-ledger.md` | Lesson 3 | A blank table for every change an AI assistant made to your data, with a status for each. Fill it in as you go |
 
 More files are added as the lessons that use them are published.
 
