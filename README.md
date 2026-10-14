@@ -31,7 +31,7 @@ You do not need an account and you do not need to understand this site.
 
 | File | Used in | What it is |
 |---|---|---|
-| `orders.csv` | Lessons 1 to 3 | One year of orders from the fictional tea shop, about 1,900 rows. Upload it to your AI assistant as it is |
+| `orders.csv` | Lessons 1 to 4 | One year of orders from the fictional tea shop, about 1,900 rows. Upload it to your AI assistant as it is |
 | `prompts.md` | Lesson 1 | The two prompts you compare: the plain one everyone types, and the four-part one. Copy them as written |
 | `orders_clean.csv` | Lesson 4 | `orders.csv` with the shop's answers applied: repeats removed, dates written one way, the three large amounts corrected. Use it for the checks in lesson 4, so you are testing claims and not cleaning data |
 | `decision-ledger.md` | Lesson 3 | A blank table for every change an AI assistant made to your data, with a status for each. Fill it in as you go |
