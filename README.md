@@ -33,10 +33,10 @@ You do not need an account and you do not need to understand this site.
 |---|---|---|
 | `orders.csv` | Lessons 1 to 4 | One year of orders from the fictional tea shop, about 1,900 rows. Upload it to your AI assistant as it is |
 | `prompts.md` | Lesson 1 | The two prompts you compare: the plain one everyone types, and the four-part one. Copy them as written |
+| `decision-ledger.md` | Lesson 3 | A blank table for every change an AI assistant made to your data, with a status for each. Fill it in as you go |
 | `orders_clean.csv` | Lesson 4 | `orders.csv` with the shop's answers applied: repeats removed, dates written one way, the three large amounts corrected. Use it for the checks in lesson 4, so you are testing claims and not cleaning data |
 | `standing-instruction.md` | Lesson 5 | Five rules to save in Claude (a Project, or pasted at the top of a chat) so every analysis shows its working by default |
 | `ANALYSIS_CARD.md` | Lesson 5 | A blank one-page card to fill in for an analysis and keep with it |
-| `decision-ledger.md` | Lesson 3 | A blank table for every change an AI assistant made to your data, with a status for each. Fill it in as you go |
 
 More files are added as the lessons that use them are published.
 
